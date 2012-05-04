@@ -1,0 +1,1 @@
+a:7:{s:4:"oxid";i:0;s:8:"oxshopid";i:0;s:7:"oxartid";i:0;s:8:"oxaddabs";i:0;s:9:"oxaddperc";i:0;s:8:"oxamount";i:0;s:10:"oxamountto";i:0;}
