@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.26, created on 2012-05-07 12:35:40
+<?php /* Smarty version 2.6.26, created on 2012-05-07 16:45:31
          compiled from layout/header.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('function', 'oxid_include_dynamic', 'layout/header.tpl', 4, false),array('function', 'oxgetseourl', 'layout/header.tpl', 10, false),array('function', 'oxmultilang', 'layout/header.tpl', 10, false),array('modifier', 'cat', 'layout/header.tpl', 10, false),array('modifier', 'count', 'layout/header.tpl', 20, false),)), $this); ?>

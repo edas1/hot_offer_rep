@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.26, created on 2012-05-07 12:56:09
+<?php /* Smarty version 2.6.26, created on 2012-05-07 16:45:32
          compiled from widget/sidebar/tags.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('function', 'oxmultilang', 'widget/sidebar/tags.tpl', 3, false),array('function', 'oxgetseourl', 'widget/sidebar/tags.tpl', 10, false),array('modifier', 'cat', 'widget/sidebar/tags.tpl', 10, false),)), $this); ?>

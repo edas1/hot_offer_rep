@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.26, created on 2012-05-07 12:35:42
+<?php /* Smarty version 2.6.26, created on 2012-05-07 16:45:32
          compiled from widget/footer/categorieslist.tpl */ ?>
 <ul class="list categories">
     <?php $_from = $this->_tpl_vars['categories']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }if (count($_from)):

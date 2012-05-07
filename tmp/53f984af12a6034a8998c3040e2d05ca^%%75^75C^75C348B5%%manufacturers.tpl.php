@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.26, created on 2012-05-07 12:35:42
+<?php /* Smarty version 2.6.26, created on 2012-05-07 16:45:32
          compiled from widget/footer/manufacturers.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('function', 'oxmultilang', 'widget/footer/manufacturers.tpl', 8, false),)), $this); ?>

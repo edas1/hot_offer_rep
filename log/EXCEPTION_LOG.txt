@@ -1465,3 +1465,507 @@ oxSystemComponentException-oxException (time: 2012-05-07 12:23:21): [0]: EXCEPTI
 
  Faulty component --> page/shop/start.tpl
 ---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 13:20:32): [0]: Function 'hasVisibleSubCats' does not exist or is not accessible! (nfq_alist_hotoffer)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\53f984af12a6034a8998c3040e2d05ca^%%F0^F0F^F0F92504%%list.tpl.php(55): oxSuperCfg->__call('hasVisibleSubCa...', Array)
+#1 C:\www\otherproject\hot_offer\tmp\53f984af12a6034a8998c3040e2d05ca^%%F0^F0F^F0F92504%%list.tpl.php(55): nfq_alist_hotoffer->hasVisibleSubCats()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('page/list/list....', 'ox|0|0|1|0')
+#4 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(nfq_alist_hotoffer))
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_alist_hotof...', NULL)
+#6 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#7 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 14:43:08): [0]: Function 'getActCategory' does not exist or is not accessible! (Details)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\views\details.php(832): oxSuperCfg->__call('getActCategory', Array)
+#1 C:\www\otherproject\hot_offer\views\details.php(832): Details->getActCategory()
+#2 C:\www\otherproject\hot_offer\views\details.php(336): Details->getLinkType()
+#3 C:\www\otherproject\hot_offer\views\details.php(804): Details->_processProduct(Object(oxArticle))
+#4 C:\www\otherproject\hot_offer\views\oxubase.php(2354): Details->getProduct()
+#5 C:\www\otherproject\hot_offer\views\oxcmp_categories.php(100): oxUBase->getViewProduct()
+#6 C:\www\otherproject\hot_offer\views\oxcmp_categories.php(128): oxcmp_categories->getProduct()
+#7 C:\www\otherproject\hot_offer\views\oxcmp_categories.php(63): oxcmp_categories->_getActCat()
+#8 C:\www\otherproject\hot_offer\views\oxubase.php(634): oxcmp_categories->init()
+#9 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(367): oxUBase->init()
+#10 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(309): oxShopControl->_initializeViewObject('details', NULL)
+#11 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('details', NULL)
+#12 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#13 C:\www\otherproject\hot_offer\oxseo.php(46): require('C:\www\otherpro...')
+#14 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 14:43:59): [0]: Function 'getActCategory' does not exist or is not accessible! (nfq_alist_hotoffer)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\views\alist.php(679): oxSuperCfg->__call('getActCategory', Array)
+#1 C:\www\otherproject\hot_offer\views\alist.php(679): nfq_alist_hotoffer->getActCategory()
+#2 C:\www\otherproject\hot_offer\views\oxubase.php(1090): aList->getSorting(NULL)
+#3 C:\www\otherproject\hot_offer\views\oxubase.php(647): oxUBase->prepareSortColumns()
+#4 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(367): oxUBase->init()
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(309): oxShopControl->_initializeViewObject('nfq_alist_hotof...', NULL)
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_alist_hotof...', NULL)
+#7 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#8 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 14:55:36): [0]: Function 'getActCategory' does not exist or is not accessible! (nfq_alist_hotoffer)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\views\alist.php(679): oxSuperCfg->__call('getActCategory', Array)
+#1 C:\www\otherproject\hot_offer\views\alist.php(679): nfq_alist_hotoffer->getActCategory()
+#2 C:\www\otherproject\hot_offer\views\oxubase.php(1090): aList->getSorting(NULL)
+#3 C:\www\otherproject\hot_offer\views\oxubase.php(647): oxUBase->prepareSortColumns()
+#4 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(367): oxUBase->init()
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(309): oxShopControl->_initializeViewObject('nfq_alist_hotof...', NULL)
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_alist_hotof...', NULL)
+#7 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#8 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 14:56:20): [0]: EXCEPTION_SYSTEMCOMPONENT_CLASSNOTFOUND 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\core\oxutilsobject.php(125): oxUtilsObject->_getObject('oxsystemcompone...', 0, Array)
+#1 [internal function]: oxUtilsObject->oxNew('oxSystemCompone...')
+#2 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#3 C:\www\otherproject\hot_offer\core\oxutilsobject.php(115): oxNew('oxSystemCompone...')
+#4 [internal function]: oxUtilsObject->oxNew('nfq_alist_hotof...')
+#5 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(357): oxNew('nfq_alist_hotof...')
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(309): oxShopControl->_initializeViewObject('nfq_alist_hotof...', NULL)
+#8 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_alist_hotof...', NULL)
+#9 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#10 {main}
+
+ Faulty component --> nfq_alist_hotoffer
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 14:56:20): [0]: EXCEPTION_SYSTEMCOMPONENT_CLASSNOTFOUND 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\core\oxutilsobject.php(125): oxUtilsObject->_getObject('oxsystemcompone...', 0, Array)
+#1 [internal function]: oxUtilsObject->oxNew('oxSystemCompone...')
+#2 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#3 C:\www\otherproject\hot_offer\core\oxutilsobject.php(115): oxNew('oxSystemCompone...')
+#4 [internal function]: oxUtilsObject->oxNew('nfq_alist_hotof...')
+#5 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(357): oxNew('nfq_alist_hotof...')
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(309): oxShopControl->_initializeViewObject('nfq_alist_hotof...', NULL)
+#8 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_alist_hotof...', NULL)
+#9 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#10 {main}
+
+ Faulty component --> nfq_alist_hotoffer
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 15:05:06): [0]: EXCEPTION_SYSTEMCOMPONENT_TEMPLATENOTFOUND 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\core\oxutilsobject.php(125): oxUtilsObject->_getObject('oxsystemcompone...', 0, Array)
+#1 [internal function]: oxUtilsObject->oxNew('oxSystemCompone...')
+#2 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#3 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(412): oxNew('oxSystemCompone...')
+#4 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(nfq_alist_hotoffer))
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_alist_hotof...', NULL)
+#6 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#7 {main}
+
+ Faulty component --> page/custom/nfq_just_template.tpl
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 15:07:04): [0]: Function 'hasVisibleSubCats' does not exist or is not accessible! (nfq_alist_hotoffer)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\53f984af12a6034a8998c3040e2d05ca^%%F0^F0F^F0F92504%%list.tpl.php(55): oxSuperCfg->__call('hasVisibleSubCa...', Array)
+#1 C:\www\otherproject\hot_offer\tmp\53f984af12a6034a8998c3040e2d05ca^%%F0^F0F^F0F92504%%list.tpl.php(55): nfq_alist_hotoffer->hasVisibleSubCats()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('page/list/list....', 'ox|0|0|1|0')
+#4 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(nfq_alist_hotoffer))
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_alist_hotof...', NULL)
+#6 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#7 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 15:12:25): [0]: Function 'getArticleHotOffers' does not exist or is not accessible! (nfq_alist_hotoffer)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\53f984af12a6034a8998c3040e2d05ca^%%F0^F0F^F0F92504%%list.tpl.php(5): oxSuperCfg->__call('getArticleHotOf...', Array)
+#1 C:\www\otherproject\hot_offer\tmp\53f984af12a6034a8998c3040e2d05ca^%%F0^F0F^F0F92504%%list.tpl.php(5): nfq_alist_hotoffer->getArticleHotOffers()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('page/list/list....', '93390a891bba9ad...')
+#4 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(nfq_alist_hotoffer))
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_alist_hotof...', NULL)
+#6 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#7 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 15:13:22): [0]: Function 'getArticleHotOffers' does not exist or is not accessible! (nfq_alist_hotoffer)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\53f984af12a6034a8998c3040e2d05ca^%%F0^F0F^F0F92504%%list.tpl.php(5): oxSuperCfg->__call('getArticleHotOf...', Array)
+#1 C:\www\otherproject\hot_offer\tmp\53f984af12a6034a8998c3040e2d05ca^%%F0^F0F^F0F92504%%list.tpl.php(5): nfq_alist_hotoffer->getArticleHotOffers()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('page/list/list....', '93390a891bba9ad...')
+#4 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(nfq_alist_hotoffer))
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_alist_hotof...', NULL)
+#6 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#7 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 15:13:27): [0]: Function 'getArticleHotOffers' does not exist or is not accessible! (nfq_alist_hotoffer)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\53f984af12a6034a8998c3040e2d05ca^%%F0^F0F^F0F92504%%list.tpl.php(5): oxSuperCfg->__call('getArticleHotOf...', Array)
+#1 C:\www\otherproject\hot_offer\tmp\53f984af12a6034a8998c3040e2d05ca^%%F0^F0F^F0F92504%%list.tpl.php(5): nfq_alist_hotoffer->getArticleHotOffers()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('page/list/list....', '93390a891bba9ad...')
+#4 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(nfq_alist_hotoffer))
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_alist_hotof...', NULL)
+#6 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#7 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 15:13:29): [0]: Function 'getArticleHotOffers' does not exist or is not accessible! (nfq_alist_hotoffer)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\53f984af12a6034a8998c3040e2d05ca^%%F0^F0F^F0F92504%%list.tpl.php(5): oxSuperCfg->__call('getArticleHotOf...', Array)
+#1 C:\www\otherproject\hot_offer\tmp\53f984af12a6034a8998c3040e2d05ca^%%F0^F0F^F0F92504%%list.tpl.php(5): nfq_alist_hotoffer->getArticleHotOffers()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('page/list/list....', '93390a891bba9ad...')
+#4 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(nfq_alist_hotoffer))
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_alist_hotof...', NULL)
+#6 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#7 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 15:16:53): [0]: Function 'getArticleHotOffers' does not exist or is not accessible! (nfq_alist_hotoffer)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\53f984af12a6034a8998c3040e2d05ca^%%F0^F0F^F0F92504%%list.tpl.php(5): oxSuperCfg->__call('getArticleHotOf...', Array)
+#1 C:\www\otherproject\hot_offer\tmp\53f984af12a6034a8998c3040e2d05ca^%%F0^F0F^F0F92504%%list.tpl.php(5): nfq_alist_hotoffer->getArticleHotOffers()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('page/list/list....', 'ox|0|0|1|0')
+#4 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(nfq_alist_hotoffer))
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_alist_hotof...', NULL)
+#6 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#7 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 15:17:36): [0]: Function 'getArticleHotOffers' does not exist or is not accessible! (nfq_alist_hotoffer)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\53f984af12a6034a8998c3040e2d05ca^%%F0^F0F^F0F92504%%list.tpl.php(5): oxSuperCfg->__call('getArticleHotOf...', Array)
+#1 C:\www\otherproject\hot_offer\tmp\53f984af12a6034a8998c3040e2d05ca^%%F0^F0F^F0F92504%%list.tpl.php(5): nfq_alist_hotoffer->getArticleHotOffers()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('page/list/list....', 'ox|0|0|1|0')
+#4 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(nfq_alist_hotoffer))
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_alist_hotof...', NULL)
+#6 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#7 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 15:34:57): [0]: EXCEPTION_SYSTEMCOMPONENT_CLASSNOTFOUND 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\core\oxutilsobject.php(125): oxUtilsObject->_getObject('oxsystemcompone...', 0, Array)
+#1 [internal function]: oxUtilsObject->oxNew('oxSystemCompone...')
+#2 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#3 C:\www\otherproject\hot_offer\core\oxutilsobject.php(115): oxNew('oxSystemCompone...')
+#4 [internal function]: oxUtilsObject->oxNew('nfq_alist_hotof...')
+#5 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(357): oxNew('nfq_alist_hotof...')
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(309): oxShopControl->_initializeViewObject('nfq_alist_hotof...', NULL)
+#8 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_alist_hotof...', NULL)
+#9 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#10 {main}
+
+ Faulty component --> nfq_alist_hotoffer
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 15:34:57): [0]: EXCEPTION_SYSTEMCOMPONENT_CLASSNOTFOUND 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\core\oxutilsobject.php(125): oxUtilsObject->_getObject('oxsystemcompone...', 0, Array)
+#1 [internal function]: oxUtilsObject->oxNew('oxSystemCompone...')
+#2 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#3 C:\www\otherproject\hot_offer\core\oxutilsobject.php(115): oxNew('oxSystemCompone...')
+#4 [internal function]: oxUtilsObject->oxNew('nfq_alist_hotof...')
+#5 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(357): oxNew('nfq_alist_hotof...')
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(309): oxShopControl->_initializeViewObject('nfq_alist_hotof...', NULL)
+#8 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_alist_hotof...', NULL)
+#9 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#10 {main}
+
+ Faulty component --> nfq_alist_hotoffer
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 15:35:05): [0]: EXCEPTION_SYSTEMCOMPONENT_CLASSNOTFOUND 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\core\oxutilsobject.php(125): oxUtilsObject->_getObject('oxsystemcompone...', 0, Array)
+#1 [internal function]: oxUtilsObject->oxNew('oxSystemCompone...')
+#2 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#3 C:\www\otherproject\hot_offer\core\oxutilsobject.php(115): oxNew('oxSystemCompone...')
+#4 [internal function]: oxUtilsObject->oxNew('nfq_hotoffers')
+#5 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(357): oxNew('nfq_hotoffers')
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(309): oxShopControl->_initializeViewObject('nfq_hotoffers', NULL)
+#8 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_hotoffers', NULL)
+#9 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#10 {main}
+
+ Faulty component --> nfq_hotoffers
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 15:35:05): [0]: EXCEPTION_SYSTEMCOMPONENT_CLASSNOTFOUND 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\core\oxutilsobject.php(125): oxUtilsObject->_getObject('oxsystemcompone...', 0, Array)
+#1 [internal function]: oxUtilsObject->oxNew('oxSystemCompone...')
+#2 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#3 C:\www\otherproject\hot_offer\core\oxutilsobject.php(115): oxNew('oxSystemCompone...')
+#4 [internal function]: oxUtilsObject->oxNew('nfq_hotoffers')
+#5 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(357): oxNew('nfq_hotoffers')
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(309): oxShopControl->_initializeViewObject('nfq_hotoffers', NULL)
+#8 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_hotoffers', NULL)
+#9 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#10 {main}
+
+ Faulty component --> nfq_hotoffers
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 15:35:48): [0]: Function 'getFirstArticle' does not exist or is not accessible! (nfq_hotoffers)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\53f984af12a6034a8998c3040e2d05ca^%%F5^F5E^F5ED87ED%%nfq_hotoffers.tpl.php(10): oxSuperCfg->__call('getFirstArticle', Array)
+#1 C:\www\otherproject\hot_offer\tmp\53f984af12a6034a8998c3040e2d05ca^%%F5^F5E^F5ED87ED%%nfq_hotoffers.tpl.php(10): nfq_hotoffers->getFirstArticle()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('page/shop/nfq_h...', 'ox|0|0|1|0')
+#4 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(nfq_hotoffers))
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_hotoffers', NULL)
+#6 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#7 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 16:00:58): [0]: Function 'getArticleHotOffers' does not exist or is not accessible! (ManufacturerList)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\53f984af12a6034a8998c3040e2d05ca^%%F0^F0F^F0F92504%%list.tpl.php(5): oxSuperCfg->__call('getArticleHotOf...', Array)
+#1 C:\www\otherproject\hot_offer\tmp\53f984af12a6034a8998c3040e2d05ca^%%F0^F0F^F0F92504%%list.tpl.php(5): ManufacturerList->getArticleHotOffers()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('page/list/list....', 'eed9a2b7d817b4e...')
+#4 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(ManufacturerList))
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('manufacturerlis...', NULL)
+#6 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#7 C:\www\otherproject\hot_offer\oxseo.php(46): require('C:\www\otherpro...')
+#8 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 16:04:49): [0]: EXCEPTION_SYSTEMCOMPONENT_CLASSNOTFOUND 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\core\oxutilsobject.php(125): oxUtilsObject->_getObject('oxsystemcompone...', 0, Array)
+#1 [internal function]: oxUtilsObject->oxNew('oxSystemCompone...')
+#2 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#3 C:\www\otherproject\hot_offer\core\oxutilsobject.php(115): oxNew('oxSystemCompone...')
+#4 [internal function]: oxUtilsObject->oxNew('nfq_alist_hotof...')
+#5 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(357): oxNew('nfq_alist_hotof...')
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(309): oxShopControl->_initializeViewObject('nfq_alist_hotof...', NULL)
+#8 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_alist_hotof...', NULL)
+#9 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#10 {main}
+
+ Faulty component --> nfq_alist_hotoffer
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 16:04:50): [0]: EXCEPTION_SYSTEMCOMPONENT_CLASSNOTFOUND 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\core\oxutilsobject.php(125): oxUtilsObject->_getObject('oxsystemcompone...', 0, Array)
+#1 [internal function]: oxUtilsObject->oxNew('oxSystemCompone...')
+#2 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#3 C:\www\otherproject\hot_offer\core\oxutilsobject.php(115): oxNew('oxSystemCompone...')
+#4 [internal function]: oxUtilsObject->oxNew('nfq_alist_hotof...')
+#5 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(357): oxNew('nfq_alist_hotof...')
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(309): oxShopControl->_initializeViewObject('nfq_alist_hotof...', NULL)
+#8 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_alist_hotof...', NULL)
+#9 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#10 {main}
+
+ Faulty component --> nfq_alist_hotoffer
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 16:05:59): [0]: EXCEPTION_SYSTEMCOMPONENT_CLASSNOTFOUND 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\core\oxutilsobject.php(125): oxUtilsObject->_getObject('oxsystemcompone...', 0, Array)
+#1 [internal function]: oxUtilsObject->oxNew('oxSystemCompone...')
+#2 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#3 C:\www\otherproject\hot_offer\core\oxutilsobject.php(115): oxNew('oxSystemCompone...')
+#4 [internal function]: oxUtilsObject->oxNew('nfq_hotoffer_ox...')
+#5 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#6 C:\www\otherproject\hot_offer\views\nfq_hotoffers.php(19): oxNew('nfq_hotoffer_ox...')
+#7 C:\www\otherproject\hot_offer\tmp\53f984af12a6034a8998c3040e2d05ca^%%F5^F5E^F5ED87ED%%nfq_hotoffers.tpl.php(57): nfq_hotoffers->getNewestArticles()
+#8 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#9 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('page/shop/nfq_h...', 'ox|0|0|1|0')
+#10 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(nfq_hotoffers))
+#11 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_hotoffers', NULL)
+#12 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#13 {main}
+
+ Faulty component --> nfq_hotoffer_oxarticlelist
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 16:05:59): [0]: EXCEPTION_SYSTEMCOMPONENT_CLASSNOTFOUND 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\core\oxutilsobject.php(125): oxUtilsObject->_getObject('oxsystemcompone...', 0, Array)
+#1 [internal function]: oxUtilsObject->oxNew('oxSystemCompone...')
+#2 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#3 C:\www\otherproject\hot_offer\core\oxutilsobject.php(115): oxNew('oxSystemCompone...')
+#4 [internal function]: oxUtilsObject->oxNew('nfq_hotoffer_ox...')
+#5 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#6 C:\www\otherproject\hot_offer\views\nfq_hotoffers.php(19): oxNew('nfq_hotoffer_ox...')
+#7 C:\www\otherproject\hot_offer\tmp\53f984af12a6034a8998c3040e2d05ca^%%F5^F5E^F5ED87ED%%nfq_hotoffers.tpl.php(57): nfq_hotoffers->getNewestArticles()
+#8 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#9 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('page/shop/nfq_h...', 'ox|0|0|1|0')
+#10 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(nfq_hotoffers))
+#11 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_hotoffers', NULL)
+#12 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#13 {main}
+
+ Faulty component --> nfq_hotoffer_oxarticlelist
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 16:06:05): [0]: EXCEPTION_SYSTEMCOMPONENT_CLASSNOTFOUND 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\core\oxutilsobject.php(125): oxUtilsObject->_getObject('oxsystemcompone...', 0, Array)
+#1 [internal function]: oxUtilsObject->oxNew('oxSystemCompone...')
+#2 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#3 C:\www\otherproject\hot_offer\core\oxutilsobject.php(115): oxNew('oxSystemCompone...')
+#4 [internal function]: oxUtilsObject->oxNew('nfq_hotoffer_ox...')
+#5 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#6 C:\www\otherproject\hot_offer\views\nfq_hotoffers.php(19): oxNew('nfq_hotoffer_ox...')
+#7 C:\www\otherproject\hot_offer\tmp\53f984af12a6034a8998c3040e2d05ca^%%F5^F5E^F5ED87ED%%nfq_hotoffers.tpl.php(57): nfq_hotoffers->getNewestArticles()
+#8 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#9 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('page/shop/nfq_h...', 'ox|0|0|1|0')
+#10 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(nfq_hotoffers))
+#11 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_hotoffers', NULL)
+#12 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#13 {main}
+
+ Faulty component --> nfq_hotoffer_oxarticlelist
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 16:06:05): [0]: EXCEPTION_SYSTEMCOMPONENT_CLASSNOTFOUND 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\core\oxutilsobject.php(125): oxUtilsObject->_getObject('oxsystemcompone...', 0, Array)
+#1 [internal function]: oxUtilsObject->oxNew('oxSystemCompone...')
+#2 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#3 C:\www\otherproject\hot_offer\core\oxutilsobject.php(115): oxNew('oxSystemCompone...')
+#4 [internal function]: oxUtilsObject->oxNew('nfq_hotoffer_ox...')
+#5 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#6 C:\www\otherproject\hot_offer\views\nfq_hotoffers.php(19): oxNew('nfq_hotoffer_ox...')
+#7 C:\www\otherproject\hot_offer\tmp\53f984af12a6034a8998c3040e2d05ca^%%F5^F5E^F5ED87ED%%nfq_hotoffers.tpl.php(57): nfq_hotoffers->getNewestArticles()
+#8 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#9 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('page/shop/nfq_h...', 'ox|0|0|1|0')
+#10 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(nfq_hotoffers))
+#11 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_hotoffers', NULL)
+#12 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#13 {main}
+
+ Faulty component --> nfq_hotoffer_oxarticlelist
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 16:06:14): [0]: EXCEPTION_SYSTEMCOMPONENT_CLASSNOTFOUND 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\core\oxutilsobject.php(125): oxUtilsObject->_getObject('oxsystemcompone...', 0, Array)
+#1 [internal function]: oxUtilsObject->oxNew('oxSystemCompone...')
+#2 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#3 C:\www\otherproject\hot_offer\core\oxutilsobject.php(115): oxNew('oxSystemCompone...')
+#4 [internal function]: oxUtilsObject->oxNew('nfq_hotoffer_ox...')
+#5 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#6 C:\www\otherproject\hot_offer\views\nfq_hotoffers.php(19): oxNew('nfq_hotoffer_ox...')
+#7 C:\www\otherproject\hot_offer\tmp\53f984af12a6034a8998c3040e2d05ca^%%F5^F5E^F5ED87ED%%nfq_hotoffers.tpl.php(57): nfq_hotoffers->getNewestArticles()
+#8 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#9 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('page/shop/nfq_h...', 'ox|0|0|1|0')
+#10 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(nfq_hotoffers))
+#11 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_hotoffers', NULL)
+#12 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#13 {main}
+
+ Faulty component --> nfq_hotoffer_oxarticlelist
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 16:06:14): [0]: EXCEPTION_SYSTEMCOMPONENT_CLASSNOTFOUND 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\core\oxutilsobject.php(125): oxUtilsObject->_getObject('oxsystemcompone...', 0, Array)
+#1 [internal function]: oxUtilsObject->oxNew('oxSystemCompone...')
+#2 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#3 C:\www\otherproject\hot_offer\core\oxutilsobject.php(115): oxNew('oxSystemCompone...')
+#4 [internal function]: oxUtilsObject->oxNew('nfq_hotoffer_ox...')
+#5 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#6 C:\www\otherproject\hot_offer\views\nfq_hotoffers.php(19): oxNew('nfq_hotoffer_ox...')
+#7 C:\www\otherproject\hot_offer\tmp\53f984af12a6034a8998c3040e2d05ca^%%F5^F5E^F5ED87ED%%nfq_hotoffers.tpl.php(57): nfq_hotoffers->getNewestArticles()
+#8 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#9 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('page/shop/nfq_h...', 'ox|0|0|1|0')
+#10 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(nfq_hotoffers))
+#11 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_hotoffers', NULL)
+#12 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#13 {main}
+
+ Faulty component --> nfq_hotoffer_oxarticlelist
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 16:06:21): [0]: EXCEPTION_SYSTEMCOMPONENT_CLASSNOTFOUND 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\core\oxutilsobject.php(125): oxUtilsObject->_getObject('oxsystemcompone...', 0, Array)
+#1 [internal function]: oxUtilsObject->oxNew('oxSystemCompone...')
+#2 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#3 C:\www\otherproject\hot_offer\core\oxutilsobject.php(115): oxNew('oxSystemCompone...')
+#4 [internal function]: oxUtilsObject->oxNew('nfq_hotoffer_ox...')
+#5 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#6 C:\www\otherproject\hot_offer\views\nfq_hotoffers.php(19): oxNew('nfq_hotoffer_ox...')
+#7 C:\www\otherproject\hot_offer\tmp\53f984af12a6034a8998c3040e2d05ca^%%F5^F5E^F5ED87ED%%nfq_hotoffers.tpl.php(57): nfq_hotoffers->getNewestArticles()
+#8 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#9 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('page/shop/nfq_h...', 'ox|0|0|1|0')
+#10 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(nfq_hotoffers))
+#11 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_hotoffers', NULL)
+#12 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#13 {main}
+
+ Faulty component --> nfq_hotoffer_oxarticlelist
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 16:06:21): [0]: EXCEPTION_SYSTEMCOMPONENT_CLASSNOTFOUND 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\core\oxutilsobject.php(125): oxUtilsObject->_getObject('oxsystemcompone...', 0, Array)
+#1 [internal function]: oxUtilsObject->oxNew('oxSystemCompone...')
+#2 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#3 C:\www\otherproject\hot_offer\core\oxutilsobject.php(115): oxNew('oxSystemCompone...')
+#4 [internal function]: oxUtilsObject->oxNew('nfq_hotoffer_ox...')
+#5 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#6 C:\www\otherproject\hot_offer\views\nfq_hotoffers.php(19): oxNew('nfq_hotoffer_ox...')
+#7 C:\www\otherproject\hot_offer\tmp\53f984af12a6034a8998c3040e2d05ca^%%F5^F5E^F5ED87ED%%nfq_hotoffers.tpl.php(57): nfq_hotoffers->getNewestArticles()
+#8 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#9 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('page/shop/nfq_h...', 'ox|0|0|1|0')
+#10 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(nfq_hotoffers))
+#11 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_hotoffers', NULL)
+#12 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#13 {main}
+
+ Faulty component --> nfq_hotoffer_oxarticlelist
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 16:06:49): [0]: EXCEPTION_SYSTEMCOMPONENT_CLASSNOTFOUND 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\core\oxutilsobject.php(125): oxUtilsObject->_getObject('oxsystemcompone...', 0, Array)
+#1 [internal function]: oxUtilsObject->oxNew('oxSystemCompone...')
+#2 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#3 C:\www\otherproject\hot_offer\core\oxutilsobject.php(115): oxNew('oxSystemCompone...')
+#4 [internal function]: oxUtilsObject->oxNew('nfq_hotoffer_ox...')
+#5 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#6 C:\www\otherproject\hot_offer\views\nfq_hotoffers.php(19): oxNew('nfq_hotoffer_ox...')
+#7 C:\www\otherproject\hot_offer\tmp\53f984af12a6034a8998c3040e2d05ca^%%F5^F5E^F5ED87ED%%nfq_hotoffers.tpl.php(57): nfq_hotoffers->getNewestArticles()
+#8 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#9 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('page/shop/nfq_h...', 'ox|0|0|1|0')
+#10 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(nfq_hotoffers))
+#11 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_hotoffers', NULL)
+#12 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#13 {main}
+
+ Faulty component --> nfq_hotoffer_oxarticlelist
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 16:06:49): [0]: EXCEPTION_SYSTEMCOMPONENT_CLASSNOTFOUND 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\core\oxutilsobject.php(125): oxUtilsObject->_getObject('oxsystemcompone...', 0, Array)
+#1 [internal function]: oxUtilsObject->oxNew('oxSystemCompone...')
+#2 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#3 C:\www\otherproject\hot_offer\core\oxutilsobject.php(115): oxNew('oxSystemCompone...')
+#4 [internal function]: oxUtilsObject->oxNew('nfq_hotoffer_ox...')
+#5 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#6 C:\www\otherproject\hot_offer\views\nfq_hotoffers.php(19): oxNew('nfq_hotoffer_ox...')
+#7 C:\www\otherproject\hot_offer\tmp\53f984af12a6034a8998c3040e2d05ca^%%F5^F5E^F5ED87ED%%nfq_hotoffers.tpl.php(57): nfq_hotoffers->getNewestArticles()
+#8 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#9 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('page/shop/nfq_h...', 'ox|0|0|1|0')
+#10 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(nfq_hotoffers))
+#11 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_hotoffers', NULL)
+#12 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#13 {main}
+
+ Faulty component --> nfq_hotoffer_oxarticlelist
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 16:11:10): [0]: Function 'getHotOfferArticles' does not exist or is not accessible! (nfq_hotoffers)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\53f984af12a6034a8998c3040e2d05ca^%%F5^F5E^F5ED87ED%%nfq_hotoffers.tpl.php(57): oxSuperCfg->__call('getHotOfferArti...', Array)
+#1 C:\www\otherproject\hot_offer\tmp\53f984af12a6034a8998c3040e2d05ca^%%F5^F5E^F5ED87ED%%nfq_hotoffers.tpl.php(57): nfq_hotoffers->getHotOfferArticles()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('page/shop/nfq_h...', 'ox|0|0|1|0')
+#4 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(nfq_hotoffers))
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_hotoffers', NULL)
+#6 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#7 {main}
+
+ Faulty component --> 
+---------------------------------------------

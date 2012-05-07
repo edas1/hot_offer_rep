@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.26, created on 2012-05-07 13:15:57
+<?php /* Smarty version 2.6.26, created on 2012-05-07 16:47:50
          compiled from ox:oxforgotpwd249948d828fcb51623e5799981f6bc870 */ ?>
     <p>If you don't get an e-mail with your access data, please make sure that you have already registered with us. As soon as you are registered, you can login with your e-mail address and your password.</p>
 <ul>

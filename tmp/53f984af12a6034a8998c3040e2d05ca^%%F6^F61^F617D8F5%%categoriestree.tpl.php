@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.26, created on 2012-05-07 12:35:41
+<?php /* Smarty version 2.6.26, created on 2012-05-07 16:45:31
          compiled from widget/sidebar/categoriestree.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('function', 'oxmultilang', 'widget/sidebar/categoriestree.tpl', 31, false),array('function', 'oxgetseourl', 'widget/sidebar/categoriestree.tpl', 38, false),array('modifier', 'cat', 'widget/sidebar/categoriestree.tpl', 38, false),)), $this); ?>

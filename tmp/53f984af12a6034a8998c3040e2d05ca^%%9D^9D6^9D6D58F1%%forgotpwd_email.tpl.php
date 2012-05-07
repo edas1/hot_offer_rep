@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.26, created on 2012-05-07 12:35:41
+<?php /* Smarty version 2.6.26, created on 2012-05-07 16:45:31
          compiled from form/forgotpwd_email.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('function', 'oxmultilang', 'form/forgotpwd_email.tpl', 1, false),array('function', 'oxscript', 'form/forgotpwd_email.tpl', 3, false),array('block', 'oxifcontent', 'form/forgotpwd_email.tpl', 26, false),)), $this); ?>

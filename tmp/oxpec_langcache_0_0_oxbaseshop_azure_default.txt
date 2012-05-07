@@ -894,6 +894,8 @@ $aLangCache = array (
   'simpleDateFormat' => 'Y-m-d',
   'usrRegistered' => 'User will be registered after he provided his password',
   'view' => 'View',
+  'PAGE_SHOP_NFQ_HOTOFFERS_HOTOFFERS' => 'HOT OFFERS!',
+  'NFQ_HOTOFFER_TOP_LINK' => 'HOT OFFERS',
   '_aSeoReplaceChars' => 
   array (
   ),
