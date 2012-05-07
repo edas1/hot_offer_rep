@@ -1,0 +1,1 @@
+a:9:{s:10:"oxparentid";i:0;s:10:"oxvarstock";i:0;s:10:"oxvarcount";i:0;s:7:"oxstock";i:0;s:11:"oxstockflag";i:0;s:14:"oxunitquantity";i:0;s:8:"oxshopid";i:0;s:8:"oxinsert";i:0;s:11:"oxtimestamp";i:0;}

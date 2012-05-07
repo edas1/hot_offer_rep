@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.26, created on 2012-05-07 11:38:17
+<?php /* Smarty version 2.6.26, created on 2012-05-07 12:56:19
          compiled from bottomnaviitem.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('function', 'oxmultilang', 'bottomnaviitem.tpl', 14, false),array('modifier', 'replace', 'bottomnaviitem.tpl', 17, false),array('modifier', 'oxlower', 'bottomnaviitem.tpl', 144, false),array('modifier', 'lower', 'bottomnaviitem.tpl', 144, false),)), $this); ?>

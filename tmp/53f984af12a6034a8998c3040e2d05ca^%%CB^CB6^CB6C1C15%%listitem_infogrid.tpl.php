@@ -1,9 +1,7 @@
-<?php /* Smarty version 2.6.26, created on 2012-05-07 12:35:40
+<?php /* Smarty version 2.6.26, created on 2012-05-07 13:15:57
          compiled from widget/product/listitem_infogrid.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
-smarty_core_load_plugins(array('plugins' => array(array('modifier', 'print_r', 'widget/product/listitem_infogrid.tpl', 1, false),array('block', 'oxhasrights', 'widget/product/listitem_infogrid.tpl', 22, false),array('function', 'oxmultilang', 'widget/product/listitem_infogrid.tpl', 46, false),array('function', 'oxid_include_dynamic', 'widget/product/listitem_infogrid.tpl', 84, false),)), $this); ?>
-<?php echo ((is_array($_tmp=$this->_tpl_vars['product'])) ? $this->_run_mod_handler('print_r', true, $_tmp) : print_r($_tmp)); ?>
-
+smarty_core_load_plugins(array('plugins' => array(array('block', 'oxhasrights', 'widget/product/listitem_infogrid.tpl', 21, false),array('function', 'oxmultilang', 'widget/product/listitem_infogrid.tpl', 45, false),array('function', 'oxid_include_dynamic', 'widget/product/listitem_infogrid.tpl', 84, false),)), $this); ?>
 
     <?php $this->assign('currency', $this->_tpl_vars['oView']->getActCurrency()); ?>
     <?php if ($this->_tpl_vars['showMainLink']): ?>
@@ -68,6 +66,7 @@ smarty_core_load_plugins(array('plugins' => array(array('modifier', 'print_r', '
  <?php echo $this->_tpl_vars['product']->oxarticles__oxvarselect->value; ?>
 "><span><?php echo smarty_function_oxmultilang(array('ident' => 'WIDGET_PRODUCT_PRODUCT_DETAILS'), $this);?>
 </span></a>
+            <?php if ($this->_tpl_vars['product']->oxarticles__nfq_hotoffer->value == 1): ?><div class="nfq_hotoffer"></div><?php endif; ?>
             <img src="<?php echo $this->_tpl_vars['product']->getThumbnailUrl(); ?>
 " alt="<?php echo $this->_tpl_vars['product']->oxarticles__oxtitle->value; ?>
  <?php echo $this->_tpl_vars['product']->oxarticles__oxvarselect->value; ?>
