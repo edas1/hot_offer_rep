@@ -1,0 +1,1 @@
+a:8:{s:4:"oxid";i:0;s:8:"oxshopid";i:0;s:8:"oxuserid";i:0;s:8:"oxauthor";i:0;s:7:"oxtitle";i:0;s:6:"oxdesc";i:0;s:11:"oxratingcnt";i:0;s:8:"oxrating";i:0;}

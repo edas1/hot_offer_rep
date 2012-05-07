@@ -22,55 +22,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="article_seo.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/article_seo.php">
+      <file leaf-file-name="theme.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/out/nfq_hotoffer/theme.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="3" selection-start="1020" selection-end="1020" vertical-scroll-proportion="0.0">
+            <state line="35" column="34" selection-start="1335" selection-end="1335" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="article_main.tpl" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/out/admin/tpl/article_main.tpl">
+      <file leaf-file-name="listitem_infogrid.tpl" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/out/nfq_hotoffer/tpl/widget/product/listitem_infogrid.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="254" column="35" selection-start="13989" selection-end="13995" vertical-scroll-proportion="-4.1764708">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nfq_article_hotoffer.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/nfq_article_hotoffer.php">
+      <file leaf-file-name="theme.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/out/azure/theme.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="349" selection-end="349" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="nfq_article_hotoffer.tpl" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/out/admin/tpl/nfq_article_hotoffer.tpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="8" selection-start="1542" selection-end="1542" vertical-scroll-proportion="0.8933934">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="actions_main.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/actions_main.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="128" column="20" selection-start="5061" selection-end="5069" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="nfq_article_hotoffer_lang.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/out/admin/en/nfq_article_hotoffer_lang.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="42" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0">
+            <state line="31" column="4" selection-start="1170" selection-end="1170" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -91,22 +64,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/out/azure/tpl/page/details/inc/fullproductinfo.tpl" />
-        <option value="$PROJECT_DIR$/admin/article_hotoffer.php" />
-        <option value="$PROJECT_DIR$/out/admin/tpl/article_hotoffer.tpl" />
-        <option value="$PROJECT_DIR$/modules/hotoffer/menu.xml" />
-        <option value="$PROJECT_DIR$/out/admin/en/nfq_hotoffer_lang.php" />
-        <option value="$PROJECT_DIR$/update.sql" />
-        <option value="$PROJECT_DIR$/config.inc.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/admin/article_main.php" />
         <option value="$PROJECT_DIR$/out/azure/tpl/page/list/list.tpl" />
         <option value="$PROJECT_DIR$/out/azure/tpl/widget/product/listitem_grid.tpl" />
-        <option value="$PROJECT_DIR$/out/azure/tpl/widget/product/listitem_infogrid.tpl" />
         <option value="$PROJECT_DIR$/views/nfq_alist_hotoffer.php" />
         <option value="$PROJECT_DIR$/admin/nfq_article_hotoffer.php" />
         <option value="$PROJECT_DIR$/out/admin/en/nfq_article_hotoffer_lang.php" />
         <option value="$PROJECT_DIR$/out/admin/tpl/nfq_article_hotoffer.tpl" />
+        <option value="$PROJECT_DIR$/out/custom/tpl/widget/product/listitem_infogrid.tpl" />
+        <option value="$PROJECT_DIR$/out/custom/tpl/widget/product/listitem_grid.tpl" />
+        <option value="$PROJECT_DIR$/out/azure/tpl/widget/product/listitem_infogrid.tpl" />
+        <option value="$PROJECT_DIR$/out/custom/theme.php" />
+        <option value="$PROJECT_DIR$/out/hotoffer/theme.php" />
+        <option value="$PROJECT_DIR$/out/nfq_hotoffer/theme.php" />
+        <option value="$PROJECT_DIR$/out/nfq_hotoffer/tpl/widget/product/listitem_grid.tpl" />
+        <option value="$PROJECT_DIR$/out/nfq_hotoffer/tpl/widget/product/listitem_infogrid.tpl" />
       </list>
     </option>
   </component>
@@ -203,29 +176,37 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
+              <option name="myItemId" value="nfq_hotoffer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hot_offer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hot_offer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="out" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nfq_hotoffer" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="tpl" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="hot_offer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hot_offer" />
+              <option name="myItemId" value="widget" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="out" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
+              <option name="myItemId" value="product" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -243,11 +224,85 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
+              <option name="myItemId" value="azure" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hot_offer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hot_offer" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="en" />
+              <option name="myItemId" value="out" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="azure" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tpl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="widget" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hot_offer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hot_offer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="out" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="azure" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tpl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="widget" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="product" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hot_offer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hot_offer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="out" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="azure" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tpl" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -305,9 +360,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\www\otherproject\hot_offer\out\nfq_hotoffer\tpl\widget\product" />
+      <recent name="C:\www\otherproject\hot_offer\out\custom" />
+      <recent name="C:\www\otherproject\hot_offer\out\azure\tpl\custom" />
+      <recent name="C:\www\otherproject\hot_offer\out\custom\tpl\widget\product" />
       <recent name="C:\www\otherproject\hot_offer\views" />
-      <recent name="C:\www\otherproject\hot_offer\out\admin\tpl" />
-      <recent name="C:\www\otherproject\hot_offer\admin" />
     </key>
   </component>
   <component name="RunManager">
@@ -369,13 +426,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="886" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25431034" sideWeight="0.6712329" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25431034" sideWeight="0.6712329" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -442,41 +499,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/views/start.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/azure/tpl/widget/product/listitem_infogrid.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/azure/tpl/widget/product/listitem_grid.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/alist.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="27" selection-start="1288" selection-end="1295" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/nfq_alist_hotoffer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="38" selection-start="88" selection-end="97" vertical-scroll-proportion="0.1">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/core/oxarticle.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -512,23 +534,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/article_seo.php">
+    <entry file="file://$PROJECT_DIR$/out/admin/tpl/nfq_article_hotoffer.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="3" selection-start="1020" selection-end="1020" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/nfq_article_hotoffer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="349" selection-end="349" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/admin/tpl/article_main.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="254" column="35" selection-start="13989" selection-end="13995" vertical-scroll-proportion="-4.1764708">
+        <state line="24" column="36" selection-start="955" selection-end="955" vertical-scroll-proportion="0.6126126">
           <folding />
         </state>
       </provider>
@@ -542,14 +550,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/actions_main.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="128" column="20" selection-start="5061" selection-end="5069" vertical-scroll-proportion="0.0">
+        <state line="128" column="20" selection-start="5061" selection-end="5069" vertical-scroll-proportion="0.38583815">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out/admin/tpl/nfq_article_hotoffer.tpl">
+    <entry file="file://$PROJECT_DIR$/admin/nfq_article_hotoffer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="8" selection-start="1542" selection-end="1542" vertical-scroll-proportion="0.8933934">
+        <state line="13" column="0" selection-start="349" selection-end="349" vertical-scroll-proportion="0.3134752">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/admin/tpl/article_main.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="254" column="35" selection-start="13989" selection-end="13995" vertical-scroll-proportion="0.3322933">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/article_seo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="3" selection-start="1020" selection-end="1020" vertical-scroll-proportion="-3.1588652">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/azure/tpl/widget/product/listitem_infogrid.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/azure/theme.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="4" selection-start="1170" selection-end="1170" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/nfq_hotoffer/theme.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="34" selection-start="1335" selection-end="1335" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/nfq_hotoffer/tpl/widget/product/listitem_infogrid.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
