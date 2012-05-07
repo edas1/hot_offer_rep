@@ -1,0 +1,1377 @@
+oxSystemComponentException-oxException (time: 2012-05-04 12:48:46): [0]: EXCEPTION_SYSTEMCOMPONENT_CLASSNOTFOUND 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\core\oxutilsobject.php(125): oxUtilsObject->_getObject('oxsystemcompone...', 0, Array)
+#1 [internal function]: oxUtilsObject->oxNew('oxSystemCompone...')
+#2 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#3 C:\www\otherproject\hot_offer\core\oxutilsobject.php(115): oxNew('oxSystemCompone...')
+#4 [internal function]: oxUtilsObject->oxNew('hotoffer_cl')
+#5 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(357): oxNew('hotoffer_cl')
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(309): oxShopControl->_initializeViewObject('hotoffer_cl', NULL)
+#8 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('hotoffer_cl', NULL)
+#9 C:\www\otherproject\hot_offer\index.php(99): oxShopControl->start()
+#10 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#11 {main}
+
+ Faulty component --> hotoffer_cl
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-04 12:48:46): [0]: EXCEPTION_SYSTEMCOMPONENT_CLASSNOTFOUND 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\core\oxutilsobject.php(125): oxUtilsObject->_getObject('oxsystemcompone...', 0, Array)
+#1 [internal function]: oxUtilsObject->oxNew('oxSystemCompone...')
+#2 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#3 C:\www\otherproject\hot_offer\core\oxutilsobject.php(115): oxNew('oxSystemCompone...')
+#4 [internal function]: oxUtilsObject->oxNew('hotoffer_cl')
+#5 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(357): oxNew('hotoffer_cl')
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(309): oxShopControl->_initializeViewObject('hotoffer_cl', NULL)
+#8 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('hotoffer_cl', NULL)
+#9 C:\www\otherproject\hot_offer\index.php(99): oxShopControl->start()
+#10 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#11 {main}
+
+ Faulty component --> hotoffer_cl
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-04 12:50:25): [0]: EXCEPTION_SYSTEMCOMPONENT_CLASSNOTFOUND 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\core\oxutilsobject.php(125): oxUtilsObject->_getObject('oxsystemcompone...', 0, Array)
+#1 [internal function]: oxUtilsObject->oxNew('oxSystemCompone...')
+#2 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#3 C:\www\otherproject\hot_offer\core\oxutilsobject.php(115): oxNew('oxSystemCompone...')
+#4 [internal function]: oxUtilsObject->oxNew('article_hotoffe...')
+#5 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(357): oxNew('article_hotoffe...')
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(309): oxShopControl->_initializeViewObject('article_hotoffe...', NULL)
+#8 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('article_hotoffe...', NULL)
+#9 C:\www\otherproject\hot_offer\index.php(99): oxShopControl->start()
+#10 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#11 {main}
+
+ Faulty component --> article_hotoffer
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-04 12:50:25): [0]: EXCEPTION_SYSTEMCOMPONENT_CLASSNOTFOUND 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\core\oxutilsobject.php(125): oxUtilsObject->_getObject('oxsystemcompone...', 0, Array)
+#1 [internal function]: oxUtilsObject->oxNew('oxSystemCompone...')
+#2 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#3 C:\www\otherproject\hot_offer\core\oxutilsobject.php(115): oxNew('oxSystemCompone...')
+#4 [internal function]: oxUtilsObject->oxNew('article_hotoffe...')
+#5 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(357): oxNew('article_hotoffe...')
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(309): oxShopControl->_initializeViewObject('article_hotoffe...', NULL)
+#8 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('article_hotoffe...', NULL)
+#9 C:\www\otherproject\hot_offer\index.php(99): oxShopControl->start()
+#10 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#11 {main}
+
+ Faulty component --> article_hotoffer
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-04 12:56:59): [0]: EXCEPTION_SYSTEMCOMPONENT_CLASSNOTFOUND 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\core\oxutilsobject.php(125): oxUtilsObject->_getObject('oxsystemcompone...', 0, Array)
+#1 [internal function]: oxUtilsObject->oxNew('oxSystemCompone...')
+#2 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#3 C:\www\otherproject\hot_offer\core\oxutilsobject.php(115): oxNew('oxSystemCompone...')
+#4 [internal function]: oxUtilsObject->oxNew('article_hotoffe...')
+#5 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(357): oxNew('article_hotoffe...')
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(309): oxShopControl->_initializeViewObject('article_hotoffe...', NULL)
+#8 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('article_hotoffe...', NULL)
+#9 C:\www\otherproject\hot_offer\index.php(99): oxShopControl->start()
+#10 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#11 {main}
+
+ Faulty component --> article_hotoffer_config
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-04 12:56:59): [0]: EXCEPTION_SYSTEMCOMPONENT_CLASSNOTFOUND 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\core\oxutilsobject.php(125): oxUtilsObject->_getObject('oxsystemcompone...', 0, Array)
+#1 [internal function]: oxUtilsObject->oxNew('oxSystemCompone...')
+#2 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#3 C:\www\otherproject\hot_offer\core\oxutilsobject.php(115): oxNew('oxSystemCompone...')
+#4 [internal function]: oxUtilsObject->oxNew('article_hotoffe...')
+#5 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(357): oxNew('article_hotoffe...')
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(309): oxShopControl->_initializeViewObject('article_hotoffe...', NULL)
+#8 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('article_hotoffe...', NULL)
+#9 C:\www\otherproject\hot_offer\index.php(99): oxShopControl->start()
+#10 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#11 {main}
+
+ Faulty component --> article_hotoffer_config
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 08:32:14): [0]: EXCEPTION_SYSTEMCOMPONENT_CLASSNOTFOUND 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\core\oxutilsobject.php(125): oxUtilsObject->_getObject('oxsystemcompone...', 0, Array)
+#1 [internal function]: oxUtilsObject->oxNew('oxSystemCompone...')
+#2 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#3 C:\www\otherproject\hot_offer\core\oxutilsobject.php(115): oxNew('oxSystemCompone...')
+#4 [internal function]: oxUtilsObject->oxNew('oxarticles')
+#5 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#6 C:\www\otherproject\hot_offer\admin\nfq_article_hotoffer.php(15): oxNew('oxarticles')
+#7 C:\www\otherproject\hot_offer\views\oxview.php(518): Nfq_Article_Hotoffer->save()
+#8 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(312): oxView->executeFunction('save')
+#9 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', 'save')
+#10 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#11 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#12 {main}
+
+ Faulty component --> oxarticles
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 08:32:15): [0]: EXCEPTION_SYSTEMCOMPONENT_CLASSNOTFOUND 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\core\oxutilsobject.php(125): oxUtilsObject->_getObject('oxsystemcompone...', 0, Array)
+#1 [internal function]: oxUtilsObject->oxNew('oxSystemCompone...')
+#2 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#3 C:\www\otherproject\hot_offer\core\oxutilsobject.php(115): oxNew('oxSystemCompone...')
+#4 [internal function]: oxUtilsObject->oxNew('oxarticles')
+#5 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#6 C:\www\otherproject\hot_offer\admin\nfq_article_hotoffer.php(15): oxNew('oxarticles')
+#7 C:\www\otherproject\hot_offer\views\oxview.php(518): Nfq_Article_Hotoffer->save()
+#8 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(312): oxView->executeFunction('save')
+#9 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', 'save')
+#10 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#11 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#12 {main}
+
+ Faulty component --> oxarticles
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 08:59:05): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(78): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', NULL)
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 08:59:07): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(78): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', NULL)
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 09:03:19): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(78): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', 'save')
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 09:03:23): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(78): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', 'save')
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 09:03:35): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(78): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', 'save')
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 09:03:37): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(78): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', 'save')
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 09:03:40): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(78): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', 'save')
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 09:04:36): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(78): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', NULL)
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 09:04:38): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(78): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', 'save')
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 09:04:39): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(78): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', 'save')
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 09:04:54): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(78): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', NULL)
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 09:05:45): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(78): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', NULL)
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 09:08:01): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(78): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', 'save')
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 09:08:07): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(78): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', 'save')
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 09:13:45): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(78): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', NULL)
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 09:13:49): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(78): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', NULL)
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 09:14:41): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(79): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', NULL)
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 09:14:44): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(79): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', NULL)
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 09:14:56): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(79): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', NULL)
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 09:15:13): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(79): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', NULL)
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 09:15:17): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(79): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', NULL)
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 09:15:20): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(79): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', NULL)
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 09:15:56): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(79): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', NULL)
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 11:00:31): [0]: Function 'hasVisibleSubCats' does not exist or is not accessible! (nfq_alist_hotoffer)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\072a7cfd37dac5aa8f98160362d26e60^%%F0^F0F^F0F92504%%list.tpl.php(55): oxSuperCfg->__call('hasVisibleSubCa...', Array)
+#1 C:\www\otherproject\hot_offer\tmp\072a7cfd37dac5aa8f98160362d26e60^%%F0^F0F^F0F92504%%list.tpl.php(55): nfq_alist_hotoffer->hasVisibleSubCats()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('page/list/list....', 'ox|0|0|1|0')
+#4 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(nfq_alist_hotoffer))
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_alist_hotof...', NULL)
+#6 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#7 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 11:02:24): [0]: Function 'hasVisibleSubCats' does not exist or is not accessible! (nfq_alist_hotoffer)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\072a7cfd37dac5aa8f98160362d26e60^%%F0^F0F^F0F92504%%list.tpl.php(55): oxSuperCfg->__call('hasVisibleSubCa...', Array)
+#1 C:\www\otherproject\hot_offer\tmp\072a7cfd37dac5aa8f98160362d26e60^%%F0^F0F^F0F92504%%list.tpl.php(55): nfq_alist_hotoffer->hasVisibleSubCats()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('page/list/list....', 'ox|0|0|1|0')
+#4 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(nfq_alist_hotoffer))
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_alist_hotof...', NULL)
+#6 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#7 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 11:02:58): [0]: Function 'hasVisibleSubCats' does not exist or is not accessible! (nfq_alist_hotoffer)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\072a7cfd37dac5aa8f98160362d26e60^%%F0^F0F^F0F92504%%list.tpl.php(55): oxSuperCfg->__call('hasVisibleSubCa...', Array)
+#1 C:\www\otherproject\hot_offer\tmp\072a7cfd37dac5aa8f98160362d26e60^%%F0^F0F^F0F92504%%list.tpl.php(55): nfq_alist_hotoffer->hasVisibleSubCats()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('page/list/list....', 'ox|0|0|1|0')
+#4 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(nfq_alist_hotoffer))
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_alist_hotof...', NULL)
+#6 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#7 {main}
+
+ Faulty component --> 
+---------------------------------------------
+2012-05-07 11:10:05exception 'ADODB_Exception' with message 'mysql error: [1054: Unknown column 'oxv_oxarticles_en.nfq_hot_offer' in 'field list'] in EXECUTE("select oxv_oxarticles_en.oxid, oxv_oxarticles_en.oxshopid, oxv_oxarticles_en.oxparentid, oxv_oxarticles_en.oxactive, oxv_oxarticles_en.oxactivefrom, oxv_oxarticles_en.oxactiveto, oxv_oxarticles_en.oxartnum, oxv_oxarticles_en.oxean, oxv_oxarticles_en.oxdistean, oxv_oxarticles_en.oxmpn, oxv_oxarticles_en.oxtitle, oxv_oxarticles_en.oxshortdesc, oxv_oxarticles_en.oxprice, oxv_oxarticles_en.oxblfixedprice, oxv_oxarticles_en.oxpricea, oxv_oxarticles_en.oxpriceb, oxv_oxarticles_en.oxpricec, oxv_oxarticles_en.oxbprice, oxv_oxarticles_en.oxtprice, oxv_oxarticles_en.oxunitname, oxv_oxarticles_en.oxunitquantity, oxv_oxarticles_en.oxexturl, oxv_oxarticles_en.oxurldesc, oxv_oxarticles_en.oxurlimg, oxv_oxarticles_en.oxvat, oxv_oxarticles_en.oxthumb, oxv_oxarticles_en.oxicon, oxv_oxarticles_en.oxpicsgenerated, oxv_oxarticles_en.oxpic1, oxv_oxarticles_en.oxpic2, oxv_oxarticles_en.oxpic3, oxv_oxarticles_en.oxpic4, oxv_oxarticles_en.oxpic5, oxv_oxarticles_en.oxpic6, oxv_oxarticles_en.oxpic7, oxv_oxarticles_en.oxpic8, oxv_oxarticles_en.oxpic9, oxv_oxarticles_en.oxpic10, oxv_oxarticles_en.oxpic11, oxv_oxarticles_en.oxpic12, oxv_oxarticles_en.oxweight, oxv_oxarticles_en.oxstock, oxv_oxarticles_en.oxstockflag, oxv_oxarticles_en.oxstocktext, oxv_oxarticles_en.oxnostocktext, oxv_oxarticles_en.oxdelivery, oxv_oxarticles_en.oxinsert, oxv_oxarticles_en.oxtimestamp, oxv_oxarticles_en.oxlength, oxv_oxarticles_en.oxwidth, oxv_oxarticles_en.oxheight, oxv_oxarticles_en.oxfile, oxv_oxarticles_en.oxsearchkeys, oxv_oxarticles_en.oxtemplate, oxv_oxarticles_en.oxquestionemail, oxv_oxarticles_en.oxissearch, oxv_oxarticles_en.oxisconfigurable, oxv_oxarticles_en.oxvarname, oxv_oxarticles_en.oxvarstock, oxv_oxarticles_en.oxvarcount, oxv_oxarticles_en.oxvarselect, oxv_oxarticles_en.oxvarminprice, oxv_oxarticles_en.oxbundleid, oxv_oxarticles_en.oxfolder, oxv_oxarticles_en.oxsubclass, oxv_oxarticles_en.oxsort, oxv_oxarticles_en.oxsoldamount, oxv_oxarticles_en.oxnonmaterial, oxv_oxarticles_en.oxfreeshipping, oxv_oxarticles_en.oxremindactive, oxv_oxarticles_en.oxremindamount, oxv_oxarticles_en.oxamitemid, oxv_oxarticles_en.oxamtaskid, oxv_oxarticles_en.oxvendorid, oxv_oxarticles_en.oxmanufacturerid, oxv_oxarticles_en.oxskipdiscounts, oxv_oxarticles_en.oxrating, oxv_oxarticles_en.oxratingcnt, oxv_oxarticles_en.oxmindeltime, oxv_oxarticles_en.oxmaxdeltime, oxv_oxarticles_en.oxdeltimeunit, oxv_oxarticles_en.oxupdateprice, oxv_oxarticles_en.oxupdatepricea, oxv_oxarticles_en.oxupdatepriceb, oxv_oxarticles_en.oxupdatepricec, oxv_oxarticles_en.oxupdatepricetime, oxv_oxarticles_en.oxisdownloadable, oxv_oxarticles_en.nfq_hot_offer from oxv_oxarticles_en where 1  and oxv_oxarticles_en.oxparentid = ''  LIMIT 0, 10")
+' in C:\www\otherproject\hot_offer\core\adodblite\adodb-exceptions.inc.php:84
+Stack trace:
+#0 C:\www\otherproject\hot_offer\core\adodblite\adodbSQL_drivers\mysql\mysql_driver.inc(369): adodb_throw('mysql', 'EXECUTE', 1054, 'Unknown column ...', 'select oxv_oxar...', false, Object(object_ADOConnection))
+#1 C:\www\otherproject\hot_offer\core\adodblite\adodb.inc.php(334): mysql_driver_ADOConnection->do_query('select oxv_oxar...', 0, 10, false)
+#2 C:\www\otherproject\hot_offer\core\oxlegacydb.php(191): ADOConnection->SelectLimit('select oxv_oxar...', 10, 0, false)
+#3 C:\www\otherproject\hot_offer\core\oxlist.php(394): oxLegacyDb->selectLimit('select oxv_oxar...', 10, 0)
+#4 C:\www\otherproject\hot_offer\core\oxarticlelist.php(84): oxList->selectString('select oxv_oxar...')
+#5 C:\www\otherproject\hot_offer\admin\oxadminlist.php(815): oxArticleList->selectString('select oxv_oxar...')
+#6 C:\www\otherproject\hot_offer\admin\article_list.php(61): oxAdminList->getItemList()
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(406): Article_List->render()
+#8 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Article_List))
+#9 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('article_list', NULL)
+#10 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#11 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#12 {main}
+---------------------------------------------
+2012-05-07 11:15:33exception 'ADODB_Exception' with message 'mysql error: [1146: Table 'hot_offer.oxv_oxshops_en' doesn't exist] in EXECUTE("select oxv_oxshops_en.oxid, oxv_oxshops_en.oxactive, oxv_oxshops_en.oxproductive, oxv_oxshops_en.oxdefcurrency, oxv_oxshops_en.oxdeflanguage, oxv_oxshops_en.oxname, oxv_oxshops_en.oxtitleprefix, oxv_oxshops_en.oxtitlesuffix, oxv_oxshops_en.oxstarttitle, oxv_oxshops_en.oxinfoemail, oxv_oxshops_en.oxorderemail, oxv_oxshops_en.oxowneremail, oxv_oxshops_en.oxordersubject, oxv_oxshops_en.oxregistersubject, oxv_oxshops_en.oxforgotpwdsubject, oxv_oxshops_en.oxsendednowsubject, oxv_oxshops_en.oxsmtp, oxv_oxshops_en.oxsmtpuser, oxv_oxshops_en.oxsmtppwd, oxv_oxshops_en.oxcompany, oxv_oxshops_en.oxstreet, oxv_oxshops_en.oxzip, oxv_oxshops_en.oxcity, oxv_oxshops_en.oxcountry, oxv_oxshops_en.oxbankname, oxv_oxshops_en.oxbanknumber, oxv_oxshops_en.oxbankcode, oxv_oxshops_en.oxvatnumber, oxv_oxshops_en.oxbiccode, oxv_oxshops_en.oxibannumber, oxv_oxshops_en.oxfname, oxv_oxshops_en.oxlname, oxv_oxshops_en.oxtelefon, oxv_oxshops_en.oxtelefax, oxv_oxshops_en.oxurl, oxv_oxshops_en.oxdefcat, oxv_oxshops_en.oxhrbnr, oxv_oxshops_en.oxcourt, oxv_oxshops_en.oxadbutlerid, oxv_oxshops_en.oxaffilinetid, oxv_oxshops_en.oxsuperclicksid, oxv_oxshops_en.oxaffiliweltid, oxv_oxshops_en.oxaffili24id, oxv_oxshops_en.oxedition, oxv_oxshops_en.oxversion, oxv_oxshops_en.oxseoactive from oxv_oxshops_en where 1  and oxv_oxshops_en.oxid = 'oxbaseshop'")
+' in C:\www\otherproject\hot_offer\core\adodblite\adodb-exceptions.inc.php:84
+Stack trace:
+#0 C:\www\otherproject\hot_offer\core\adodblite\adodbSQL_drivers\mysql\mysql_driver.inc(369): adodb_throw('mysql', 'EXECUTE', 1146, 'Table 'hot_offe...', 'select oxv_oxsh...', false, Object(object_ADOConnection))
+#1 C:\www\otherproject\hot_offer\core\adodblite\adodb.inc.php(316): mysql_driver_ADOConnection->do_query('select oxv_oxsh...', -1, -1, false)
+#2 C:\www\otherproject\hot_offer\core\oxlegacydb.php(147): ADOConnection->Execute('select oxv_oxsh...', false)
+#3 C:\www\otherproject\hot_offer\core\oxbase.php(680): oxLegacyDb->select('select oxv_oxsh...')
+#4 C:\www\otherproject\hot_offer\core\oxbase.php(629): oxBase->assignRecord('select oxv_oxsh...')
+#5 C:\www\otherproject\hot_offer\core\oxconfig.php(1919): oxBase->load('oxbaseshop')
+#6 C:\www\otherproject\hot_offer\admin\oxadminview.php(140): oxConfig->getActiveShop()
+#7 C:\www\otherproject\hot_offer\admin\oxadminview.php(122): oxAdminView->_getEditShop('oxbaseshop')
+#8 C:\www\otherproject\hot_offer\core\oxutilsobject.php(150): oxAdminView->__construct()
+#9 C:\www\otherproject\hot_offer\core\oxutilsobject.php(125): oxUtilsObject->_getObject('admin_start', 0, Array)
+#10 [internal function]: oxUtilsObject->oxNew('admin_start')
+#11 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#12 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(357): oxNew('admin_start')
+#13 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(309): oxShopControl->_initializeViewObject('admin_start', NULL)
+#14 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('admin_start', NULL)
+#15 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#16 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#17 {main}
+---------------------------------------------
+2012-05-07 11:15:34exception 'ADODB_Exception' with message 'mysql error: [1146: Table 'hot_offer.oxv_oxshops_en' doesn't exist] in EXECUTE("select oxv_oxshops_en.oxid, oxv_oxshops_en.oxactive, oxv_oxshops_en.oxproductive, oxv_oxshops_en.oxdefcurrency, oxv_oxshops_en.oxdeflanguage, oxv_oxshops_en.oxname, oxv_oxshops_en.oxtitleprefix, oxv_oxshops_en.oxtitlesuffix, oxv_oxshops_en.oxstarttitle, oxv_oxshops_en.oxinfoemail, oxv_oxshops_en.oxorderemail, oxv_oxshops_en.oxowneremail, oxv_oxshops_en.oxordersubject, oxv_oxshops_en.oxregistersubject, oxv_oxshops_en.oxforgotpwdsubject, oxv_oxshops_en.oxsendednowsubject, oxv_oxshops_en.oxsmtp, oxv_oxshops_en.oxsmtpuser, oxv_oxshops_en.oxsmtppwd, oxv_oxshops_en.oxcompany, oxv_oxshops_en.oxstreet, oxv_oxshops_en.oxzip, oxv_oxshops_en.oxcity, oxv_oxshops_en.oxcountry, oxv_oxshops_en.oxbankname, oxv_oxshops_en.oxbanknumber, oxv_oxshops_en.oxbankcode, oxv_oxshops_en.oxvatnumber, oxv_oxshops_en.oxbiccode, oxv_oxshops_en.oxibannumber, oxv_oxshops_en.oxfname, oxv_oxshops_en.oxlname, oxv_oxshops_en.oxtelefon, oxv_oxshops_en.oxtelefax, oxv_oxshops_en.oxurl, oxv_oxshops_en.oxdefcat, oxv_oxshops_en.oxhrbnr, oxv_oxshops_en.oxcourt, oxv_oxshops_en.oxadbutlerid, oxv_oxshops_en.oxaffilinetid, oxv_oxshops_en.oxsuperclicksid, oxv_oxshops_en.oxaffiliweltid, oxv_oxshops_en.oxaffili24id, oxv_oxshops_en.oxedition, oxv_oxshops_en.oxversion, oxv_oxshops_en.oxseoactive from oxv_oxshops_en where 1  and oxv_oxshops_en.oxid = 'oxbaseshop'")
+' in C:\www\otherproject\hot_offer\core\adodblite\adodb-exceptions.inc.php:84
+Stack trace:
+#0 C:\www\otherproject\hot_offer\core\adodblite\adodbSQL_drivers\mysql\mysql_driver.inc(369): adodb_throw('mysql', 'EXECUTE', 1146, 'Table 'hot_offe...', 'select oxv_oxsh...', false, Object(object_ADOConnection))
+#1 C:\www\otherproject\hot_offer\core\adodblite\adodb.inc.php(316): mysql_driver_ADOConnection->do_query('select oxv_oxsh...', -1, -1, false)
+#2 C:\www\otherproject\hot_offer\core\oxlegacydb.php(147): ADOConnection->Execute('select oxv_oxsh...', false)
+#3 C:\www\otherproject\hot_offer\core\oxbase.php(680): oxLegacyDb->select('select oxv_oxsh...')
+#4 C:\www\otherproject\hot_offer\core\oxbase.php(629): oxBase->assignRecord('select oxv_oxsh...')
+#5 C:\www\otherproject\hot_offer\core\oxconfig.php(1919): oxBase->load('oxbaseshop')
+#6 C:\www\otherproject\hot_offer\admin\oxadminview.php(140): oxConfig->getActiveShop()
+#7 C:\www\otherproject\hot_offer\admin\oxadminview.php(122): oxAdminView->_getEditShop('oxbaseshop')
+#8 C:\www\otherproject\hot_offer\core\oxutilsobject.php(150): oxAdminView->__construct()
+#9 C:\www\otherproject\hot_offer\core\oxutilsobject.php(125): oxUtilsObject->_getObject('admin_start', 0, Array)
+#10 [internal function]: oxUtilsObject->oxNew('admin_start')
+#11 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#12 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(357): oxNew('admin_start')
+#13 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(309): oxShopControl->_initializeViewObject('admin_start', NULL)
+#14 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('admin_start', NULL)
+#15 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#16 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#17 {main}
+---------------------------------------------
+2012-05-07 11:15:38exception 'ADODB_Exception' with message 'mysql error: [1146: Table 'hot_offer.oxv_oxshops_en' doesn't exist] in EXECUTE("select oxv_oxshops_en.oxid, oxv_oxshops_en.oxactive, oxv_oxshops_en.oxproductive, oxv_oxshops_en.oxdefcurrency, oxv_oxshops_en.oxdeflanguage, oxv_oxshops_en.oxname, oxv_oxshops_en.oxtitleprefix, oxv_oxshops_en.oxtitlesuffix, oxv_oxshops_en.oxstarttitle, oxv_oxshops_en.oxinfoemail, oxv_oxshops_en.oxorderemail, oxv_oxshops_en.oxowneremail, oxv_oxshops_en.oxordersubject, oxv_oxshops_en.oxregistersubject, oxv_oxshops_en.oxforgotpwdsubject, oxv_oxshops_en.oxsendednowsubject, oxv_oxshops_en.oxsmtp, oxv_oxshops_en.oxsmtpuser, oxv_oxshops_en.oxsmtppwd, oxv_oxshops_en.oxcompany, oxv_oxshops_en.oxstreet, oxv_oxshops_en.oxzip, oxv_oxshops_en.oxcity, oxv_oxshops_en.oxcountry, oxv_oxshops_en.oxbankname, oxv_oxshops_en.oxbanknumber, oxv_oxshops_en.oxbankcode, oxv_oxshops_en.oxvatnumber, oxv_oxshops_en.oxbiccode, oxv_oxshops_en.oxibannumber, oxv_oxshops_en.oxfname, oxv_oxshops_en.oxlname, oxv_oxshops_en.oxtelefon, oxv_oxshops_en.oxtelefax, oxv_oxshops_en.oxurl, oxv_oxshops_en.oxdefcat, oxv_oxshops_en.oxhrbnr, oxv_oxshops_en.oxcourt, oxv_oxshops_en.oxadbutlerid, oxv_oxshops_en.oxaffilinetid, oxv_oxshops_en.oxsuperclicksid, oxv_oxshops_en.oxaffiliweltid, oxv_oxshops_en.oxaffili24id, oxv_oxshops_en.oxedition, oxv_oxshops_en.oxversion, oxv_oxshops_en.oxseoactive from oxv_oxshops_en where 1  and oxv_oxshops_en.oxid = 'oxbaseshop'")
+' in C:\www\otherproject\hot_offer\core\adodblite\adodb-exceptions.inc.php:84
+Stack trace:
+#0 C:\www\otherproject\hot_offer\core\adodblite\adodbSQL_drivers\mysql\mysql_driver.inc(369): adodb_throw('mysql', 'EXECUTE', 1146, 'Table 'hot_offe...', 'select oxv_oxsh...', false, Object(object_ADOConnection))
+#1 C:\www\otherproject\hot_offer\core\adodblite\adodb.inc.php(316): mysql_driver_ADOConnection->do_query('select oxv_oxsh...', -1, -1, false)
+#2 C:\www\otherproject\hot_offer\core\oxlegacydb.php(147): ADOConnection->Execute('select oxv_oxsh...', false)
+#3 C:\www\otherproject\hot_offer\core\oxbase.php(680): oxLegacyDb->select('select oxv_oxsh...')
+#4 C:\www\otherproject\hot_offer\core\oxbase.php(629): oxBase->assignRecord('select oxv_oxsh...')
+#5 C:\www\otherproject\hot_offer\core\oxconfig.php(1919): oxBase->load('oxbaseshop')
+#6 C:\www\otherproject\hot_offer\admin\oxadminview.php(140): oxConfig->getActiveShop()
+#7 C:\www\otherproject\hot_offer\admin\oxadminview.php(122): oxAdminView->_getEditShop('oxbaseshop')
+#8 C:\www\otherproject\hot_offer\core\oxutilsobject.php(150): oxAdminView->__construct()
+#9 C:\www\otherproject\hot_offer\core\oxutilsobject.php(125): oxUtilsObject->_getObject('admin_start', 0, Array)
+#10 [internal function]: oxUtilsObject->oxNew('admin_start')
+#11 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#12 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(357): oxNew('admin_start')
+#13 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(309): oxShopControl->_initializeViewObject('admin_start', NULL)
+#14 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('admin_start', NULL)
+#15 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#16 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#17 {main}
+---------------------------------------------
+2012-05-07 11:15:38exception 'ADODB_Exception' with message 'mysql error: [1146: Table 'hot_offer.oxv_oxshops_en' doesn't exist] in EXECUTE("select oxv_oxshops_en.oxid, oxv_oxshops_en.oxactive, oxv_oxshops_en.oxproductive, oxv_oxshops_en.oxdefcurrency, oxv_oxshops_en.oxdeflanguage, oxv_oxshops_en.oxname, oxv_oxshops_en.oxtitleprefix, oxv_oxshops_en.oxtitlesuffix, oxv_oxshops_en.oxstarttitle, oxv_oxshops_en.oxinfoemail, oxv_oxshops_en.oxorderemail, oxv_oxshops_en.oxowneremail, oxv_oxshops_en.oxordersubject, oxv_oxshops_en.oxregistersubject, oxv_oxshops_en.oxforgotpwdsubject, oxv_oxshops_en.oxsendednowsubject, oxv_oxshops_en.oxsmtp, oxv_oxshops_en.oxsmtpuser, oxv_oxshops_en.oxsmtppwd, oxv_oxshops_en.oxcompany, oxv_oxshops_en.oxstreet, oxv_oxshops_en.oxzip, oxv_oxshops_en.oxcity, oxv_oxshops_en.oxcountry, oxv_oxshops_en.oxbankname, oxv_oxshops_en.oxbanknumber, oxv_oxshops_en.oxbankcode, oxv_oxshops_en.oxvatnumber, oxv_oxshops_en.oxbiccode, oxv_oxshops_en.oxibannumber, oxv_oxshops_en.oxfname, oxv_oxshops_en.oxlname, oxv_oxshops_en.oxtelefon, oxv_oxshops_en.oxtelefax, oxv_oxshops_en.oxurl, oxv_oxshops_en.oxdefcat, oxv_oxshops_en.oxhrbnr, oxv_oxshops_en.oxcourt, oxv_oxshops_en.oxadbutlerid, oxv_oxshops_en.oxaffilinetid, oxv_oxshops_en.oxsuperclicksid, oxv_oxshops_en.oxaffiliweltid, oxv_oxshops_en.oxaffili24id, oxv_oxshops_en.oxedition, oxv_oxshops_en.oxversion, oxv_oxshops_en.oxseoactive from oxv_oxshops_en where 1  and oxv_oxshops_en.oxid = 'oxbaseshop'")
+' in C:\www\otherproject\hot_offer\core\adodblite\adodb-exceptions.inc.php:84
+Stack trace:
+#0 C:\www\otherproject\hot_offer\core\adodblite\adodbSQL_drivers\mysql\mysql_driver.inc(369): adodb_throw('mysql', 'EXECUTE', 1146, 'Table 'hot_offe...', 'select oxv_oxsh...', false, Object(object_ADOConnection))
+#1 C:\www\otherproject\hot_offer\core\adodblite\adodb.inc.php(316): mysql_driver_ADOConnection->do_query('select oxv_oxsh...', -1, -1, false)
+#2 C:\www\otherproject\hot_offer\core\oxlegacydb.php(147): ADOConnection->Execute('select oxv_oxsh...', false)
+#3 C:\www\otherproject\hot_offer\core\oxbase.php(680): oxLegacyDb->select('select oxv_oxsh...')
+#4 C:\www\otherproject\hot_offer\core\oxbase.php(629): oxBase->assignRecord('select oxv_oxsh...')
+#5 C:\www\otherproject\hot_offer\core\oxconfig.php(1919): oxBase->load('oxbaseshop')
+#6 C:\www\otherproject\hot_offer\admin\oxadminview.php(140): oxConfig->getActiveShop()
+#7 C:\www\otherproject\hot_offer\admin\oxadminview.php(122): oxAdminView->_getEditShop('oxbaseshop')
+#8 C:\www\otherproject\hot_offer\core\oxutilsobject.php(150): oxAdminView->__construct()
+#9 C:\www\otherproject\hot_offer\core\oxutilsobject.php(125): oxUtilsObject->_getObject('admin_start', 0, Array)
+#10 [internal function]: oxUtilsObject->oxNew('admin_start')
+#11 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#12 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(357): oxNew('admin_start')
+#13 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(309): oxShopControl->_initializeViewObject('admin_start', NULL)
+#14 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('admin_start', NULL)
+#15 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#16 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#17 {main}
+---------------------------------------------
+2012-05-07 11:15:38exception 'ADODB_Exception' with message 'mysql error: [1146: Table 'hot_offer.oxv_oxshops_en' doesn't exist] in EXECUTE("select oxv_oxshops_en.oxid, oxv_oxshops_en.oxactive, oxv_oxshops_en.oxproductive, oxv_oxshops_en.oxdefcurrency, oxv_oxshops_en.oxdeflanguage, oxv_oxshops_en.oxname, oxv_oxshops_en.oxtitleprefix, oxv_oxshops_en.oxtitlesuffix, oxv_oxshops_en.oxstarttitle, oxv_oxshops_en.oxinfoemail, oxv_oxshops_en.oxorderemail, oxv_oxshops_en.oxowneremail, oxv_oxshops_en.oxordersubject, oxv_oxshops_en.oxregistersubject, oxv_oxshops_en.oxforgotpwdsubject, oxv_oxshops_en.oxsendednowsubject, oxv_oxshops_en.oxsmtp, oxv_oxshops_en.oxsmtpuser, oxv_oxshops_en.oxsmtppwd, oxv_oxshops_en.oxcompany, oxv_oxshops_en.oxstreet, oxv_oxshops_en.oxzip, oxv_oxshops_en.oxcity, oxv_oxshops_en.oxcountry, oxv_oxshops_en.oxbankname, oxv_oxshops_en.oxbanknumber, oxv_oxshops_en.oxbankcode, oxv_oxshops_en.oxvatnumber, oxv_oxshops_en.oxbiccode, oxv_oxshops_en.oxibannumber, oxv_oxshops_en.oxfname, oxv_oxshops_en.oxlname, oxv_oxshops_en.oxtelefon, oxv_oxshops_en.oxtelefax, oxv_oxshops_en.oxurl, oxv_oxshops_en.oxdefcat, oxv_oxshops_en.oxhrbnr, oxv_oxshops_en.oxcourt, oxv_oxshops_en.oxadbutlerid, oxv_oxshops_en.oxaffilinetid, oxv_oxshops_en.oxsuperclicksid, oxv_oxshops_en.oxaffiliweltid, oxv_oxshops_en.oxaffili24id, oxv_oxshops_en.oxedition, oxv_oxshops_en.oxversion, oxv_oxshops_en.oxseoactive from oxv_oxshops_en where 1  and oxv_oxshops_en.oxid = 'oxbaseshop'")
+' in C:\www\otherproject\hot_offer\core\adodblite\adodb-exceptions.inc.php:84
+Stack trace:
+#0 C:\www\otherproject\hot_offer\core\adodblite\adodbSQL_drivers\mysql\mysql_driver.inc(369): adodb_throw('mysql', 'EXECUTE', 1146, 'Table 'hot_offe...', 'select oxv_oxsh...', false, Object(object_ADOConnection))
+#1 C:\www\otherproject\hot_offer\core\adodblite\adodb.inc.php(316): mysql_driver_ADOConnection->do_query('select oxv_oxsh...', -1, -1, false)
+#2 C:\www\otherproject\hot_offer\core\oxlegacydb.php(147): ADOConnection->Execute('select oxv_oxsh...', false)
+#3 C:\www\otherproject\hot_offer\core\oxbase.php(680): oxLegacyDb->select('select oxv_oxsh...')
+#4 C:\www\otherproject\hot_offer\core\oxbase.php(629): oxBase->assignRecord('select oxv_oxsh...')
+#5 C:\www\otherproject\hot_offer\core\oxconfig.php(1919): oxBase->load('oxbaseshop')
+#6 C:\www\otherproject\hot_offer\admin\oxadminview.php(140): oxConfig->getActiveShop()
+#7 C:\www\otherproject\hot_offer\admin\oxadminview.php(122): oxAdminView->_getEditShop('oxbaseshop')
+#8 C:\www\otherproject\hot_offer\core\oxutilsobject.php(150): oxAdminView->__construct()
+#9 C:\www\otherproject\hot_offer\core\oxutilsobject.php(125): oxUtilsObject->_getObject('admin_start', 0, Array)
+#10 [internal function]: oxUtilsObject->oxNew('admin_start')
+#11 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#12 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(357): oxNew('admin_start')
+#13 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(309): oxShopControl->_initializeViewObject('admin_start', NULL)
+#14 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('admin_start', NULL)
+#15 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#16 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#17 {main}
+---------------------------------------------
+2012-05-07 11:15:38exception 'ADODB_Exception' with message 'mysql error: [1146: Table 'hot_offer.oxv_oxshops_en' doesn't exist] in EXECUTE("select oxv_oxshops_en.oxid, oxv_oxshops_en.oxactive, oxv_oxshops_en.oxproductive, oxv_oxshops_en.oxdefcurrency, oxv_oxshops_en.oxdeflanguage, oxv_oxshops_en.oxname, oxv_oxshops_en.oxtitleprefix, oxv_oxshops_en.oxtitlesuffix, oxv_oxshops_en.oxstarttitle, oxv_oxshops_en.oxinfoemail, oxv_oxshops_en.oxorderemail, oxv_oxshops_en.oxowneremail, oxv_oxshops_en.oxordersubject, oxv_oxshops_en.oxregistersubject, oxv_oxshops_en.oxforgotpwdsubject, oxv_oxshops_en.oxsendednowsubject, oxv_oxshops_en.oxsmtp, oxv_oxshops_en.oxsmtpuser, oxv_oxshops_en.oxsmtppwd, oxv_oxshops_en.oxcompany, oxv_oxshops_en.oxstreet, oxv_oxshops_en.oxzip, oxv_oxshops_en.oxcity, oxv_oxshops_en.oxcountry, oxv_oxshops_en.oxbankname, oxv_oxshops_en.oxbanknumber, oxv_oxshops_en.oxbankcode, oxv_oxshops_en.oxvatnumber, oxv_oxshops_en.oxbiccode, oxv_oxshops_en.oxibannumber, oxv_oxshops_en.oxfname, oxv_oxshops_en.oxlname, oxv_oxshops_en.oxtelefon, oxv_oxshops_en.oxtelefax, oxv_oxshops_en.oxurl, oxv_oxshops_en.oxdefcat, oxv_oxshops_en.oxhrbnr, oxv_oxshops_en.oxcourt, oxv_oxshops_en.oxadbutlerid, oxv_oxshops_en.oxaffilinetid, oxv_oxshops_en.oxsuperclicksid, oxv_oxshops_en.oxaffiliweltid, oxv_oxshops_en.oxaffili24id, oxv_oxshops_en.oxedition, oxv_oxshops_en.oxversion, oxv_oxshops_en.oxseoactive from oxv_oxshops_en where 1  and oxv_oxshops_en.oxid = 'oxbaseshop'")
+' in C:\www\otherproject\hot_offer\core\adodblite\adodb-exceptions.inc.php:84
+Stack trace:
+#0 C:\www\otherproject\hot_offer\core\adodblite\adodbSQL_drivers\mysql\mysql_driver.inc(369): adodb_throw('mysql', 'EXECUTE', 1146, 'Table 'hot_offe...', 'select oxv_oxsh...', false, Object(object_ADOConnection))
+#1 C:\www\otherproject\hot_offer\core\adodblite\adodb.inc.php(316): mysql_driver_ADOConnection->do_query('select oxv_oxsh...', -1, -1, false)
+#2 C:\www\otherproject\hot_offer\core\oxlegacydb.php(147): ADOConnection->Execute('select oxv_oxsh...', false)
+#3 C:\www\otherproject\hot_offer\core\oxbase.php(680): oxLegacyDb->select('select oxv_oxsh...')
+#4 C:\www\otherproject\hot_offer\core\oxbase.php(629): oxBase->assignRecord('select oxv_oxsh...')
+#5 C:\www\otherproject\hot_offer\core\oxconfig.php(1919): oxBase->load('oxbaseshop')
+#6 C:\www\otherproject\hot_offer\admin\oxadminview.php(140): oxConfig->getActiveShop()
+#7 C:\www\otherproject\hot_offer\admin\oxadminview.php(122): oxAdminView->_getEditShop('oxbaseshop')
+#8 C:\www\otherproject\hot_offer\core\oxutilsobject.php(150): oxAdminView->__construct()
+#9 C:\www\otherproject\hot_offer\core\oxutilsobject.php(125): oxUtilsObject->_getObject('admin_start', 0, Array)
+#10 [internal function]: oxUtilsObject->oxNew('admin_start')
+#11 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#12 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(357): oxNew('admin_start')
+#13 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(309): oxShopControl->_initializeViewObject('admin_start', NULL)
+#14 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('admin_start', NULL)
+#15 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#16 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#17 {main}
+---------------------------------------------
+2012-05-07 11:15:38exception 'ADODB_Exception' with message 'mysql error: [1146: Table 'hot_offer.oxv_oxshops_en' doesn't exist] in EXECUTE("select oxv_oxshops_en.oxid, oxv_oxshops_en.oxactive, oxv_oxshops_en.oxproductive, oxv_oxshops_en.oxdefcurrency, oxv_oxshops_en.oxdeflanguage, oxv_oxshops_en.oxname, oxv_oxshops_en.oxtitleprefix, oxv_oxshops_en.oxtitlesuffix, oxv_oxshops_en.oxstarttitle, oxv_oxshops_en.oxinfoemail, oxv_oxshops_en.oxorderemail, oxv_oxshops_en.oxowneremail, oxv_oxshops_en.oxordersubject, oxv_oxshops_en.oxregistersubject, oxv_oxshops_en.oxforgotpwdsubject, oxv_oxshops_en.oxsendednowsubject, oxv_oxshops_en.oxsmtp, oxv_oxshops_en.oxsmtpuser, oxv_oxshops_en.oxsmtppwd, oxv_oxshops_en.oxcompany, oxv_oxshops_en.oxstreet, oxv_oxshops_en.oxzip, oxv_oxshops_en.oxcity, oxv_oxshops_en.oxcountry, oxv_oxshops_en.oxbankname, oxv_oxshops_en.oxbanknumber, oxv_oxshops_en.oxbankcode, oxv_oxshops_en.oxvatnumber, oxv_oxshops_en.oxbiccode, oxv_oxshops_en.oxibannumber, oxv_oxshops_en.oxfname, oxv_oxshops_en.oxlname, oxv_oxshops_en.oxtelefon, oxv_oxshops_en.oxtelefax, oxv_oxshops_en.oxurl, oxv_oxshops_en.oxdefcat, oxv_oxshops_en.oxhrbnr, oxv_oxshops_en.oxcourt, oxv_oxshops_en.oxadbutlerid, oxv_oxshops_en.oxaffilinetid, oxv_oxshops_en.oxsuperclicksid, oxv_oxshops_en.oxaffiliweltid, oxv_oxshops_en.oxaffili24id, oxv_oxshops_en.oxedition, oxv_oxshops_en.oxversion, oxv_oxshops_en.oxseoactive from oxv_oxshops_en where 1  and oxv_oxshops_en.oxid = 'oxbaseshop'")
+' in C:\www\otherproject\hot_offer\core\adodblite\adodb-exceptions.inc.php:84
+Stack trace:
+#0 C:\www\otherproject\hot_offer\core\adodblite\adodbSQL_drivers\mysql\mysql_driver.inc(369): adodb_throw('mysql', 'EXECUTE', 1146, 'Table 'hot_offe...', 'select oxv_oxsh...', false, Object(object_ADOConnection))
+#1 C:\www\otherproject\hot_offer\core\adodblite\adodb.inc.php(316): mysql_driver_ADOConnection->do_query('select oxv_oxsh...', -1, -1, false)
+#2 C:\www\otherproject\hot_offer\core\oxlegacydb.php(147): ADOConnection->Execute('select oxv_oxsh...', false)
+#3 C:\www\otherproject\hot_offer\core\oxbase.php(680): oxLegacyDb->select('select oxv_oxsh...')
+#4 C:\www\otherproject\hot_offer\core\oxbase.php(629): oxBase->assignRecord('select oxv_oxsh...')
+#5 C:\www\otherproject\hot_offer\core\oxconfig.php(1919): oxBase->load('oxbaseshop')
+#6 C:\www\otherproject\hot_offer\admin\oxadminview.php(140): oxConfig->getActiveShop()
+#7 C:\www\otherproject\hot_offer\admin\oxadminview.php(122): oxAdminView->_getEditShop('oxbaseshop')
+#8 C:\www\otherproject\hot_offer\core\oxutilsobject.php(150): oxAdminView->__construct()
+#9 C:\www\otherproject\hot_offer\core\oxutilsobject.php(125): oxUtilsObject->_getObject('admin_start', 0, Array)
+#10 [internal function]: oxUtilsObject->oxNew('admin_start')
+#11 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#12 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(357): oxNew('admin_start')
+#13 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(309): oxShopControl->_initializeViewObject('admin_start', NULL)
+#14 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('admin_start', NULL)
+#15 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#16 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#17 {main}
+---------------------------------------------
+2012-05-07 11:15:38exception 'ADODB_Exception' with message 'mysql error: [1146: Table 'hot_offer.oxv_oxshops_en' doesn't exist] in EXECUTE("select oxv_oxshops_en.oxid, oxv_oxshops_en.oxactive, oxv_oxshops_en.oxproductive, oxv_oxshops_en.oxdefcurrency, oxv_oxshops_en.oxdeflanguage, oxv_oxshops_en.oxname, oxv_oxshops_en.oxtitleprefix, oxv_oxshops_en.oxtitlesuffix, oxv_oxshops_en.oxstarttitle, oxv_oxshops_en.oxinfoemail, oxv_oxshops_en.oxorderemail, oxv_oxshops_en.oxowneremail, oxv_oxshops_en.oxordersubject, oxv_oxshops_en.oxregistersubject, oxv_oxshops_en.oxforgotpwdsubject, oxv_oxshops_en.oxsendednowsubject, oxv_oxshops_en.oxsmtp, oxv_oxshops_en.oxsmtpuser, oxv_oxshops_en.oxsmtppwd, oxv_oxshops_en.oxcompany, oxv_oxshops_en.oxstreet, oxv_oxshops_en.oxzip, oxv_oxshops_en.oxcity, oxv_oxshops_en.oxcountry, oxv_oxshops_en.oxbankname, oxv_oxshops_en.oxbanknumber, oxv_oxshops_en.oxbankcode, oxv_oxshops_en.oxvatnumber, oxv_oxshops_en.oxbiccode, oxv_oxshops_en.oxibannumber, oxv_oxshops_en.oxfname, oxv_oxshops_en.oxlname, oxv_oxshops_en.oxtelefon, oxv_oxshops_en.oxtelefax, oxv_oxshops_en.oxurl, oxv_oxshops_en.oxdefcat, oxv_oxshops_en.oxhrbnr, oxv_oxshops_en.oxcourt, oxv_oxshops_en.oxadbutlerid, oxv_oxshops_en.oxaffilinetid, oxv_oxshops_en.oxsuperclicksid, oxv_oxshops_en.oxaffiliweltid, oxv_oxshops_en.oxaffili24id, oxv_oxshops_en.oxedition, oxv_oxshops_en.oxversion, oxv_oxshops_en.oxseoactive from oxv_oxshops_en where 1  and oxv_oxshops_en.oxid = 'oxbaseshop'")
+' in C:\www\otherproject\hot_offer\core\adodblite\adodb-exceptions.inc.php:84
+Stack trace:
+#0 C:\www\otherproject\hot_offer\core\adodblite\adodbSQL_drivers\mysql\mysql_driver.inc(369): adodb_throw('mysql', 'EXECUTE', 1146, 'Table 'hot_offe...', 'select oxv_oxsh...', false, Object(object_ADOConnection))
+#1 C:\www\otherproject\hot_offer\core\adodblite\adodb.inc.php(316): mysql_driver_ADOConnection->do_query('select oxv_oxsh...', -1, -1, false)
+#2 C:\www\otherproject\hot_offer\core\oxlegacydb.php(147): ADOConnection->Execute('select oxv_oxsh...', false)
+#3 C:\www\otherproject\hot_offer\core\oxbase.php(680): oxLegacyDb->select('select oxv_oxsh...')
+#4 C:\www\otherproject\hot_offer\core\oxbase.php(629): oxBase->assignRecord('select oxv_oxsh...')
+#5 C:\www\otherproject\hot_offer\core\oxconfig.php(1919): oxBase->load('oxbaseshop')
+#6 C:\www\otherproject\hot_offer\admin\oxadminview.php(140): oxConfig->getActiveShop()
+#7 C:\www\otherproject\hot_offer\admin\oxadminview.php(122): oxAdminView->_getEditShop('oxbaseshop')
+#8 C:\www\otherproject\hot_offer\core\oxutilsobject.php(150): oxAdminView->__construct()
+#9 C:\www\otherproject\hot_offer\core\oxutilsobject.php(125): oxUtilsObject->_getObject('admin_start', 0, Array)
+#10 [internal function]: oxUtilsObject->oxNew('admin_start')
+#11 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#12 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(357): oxNew('admin_start')
+#13 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(309): oxShopControl->_initializeViewObject('admin_start', NULL)
+#14 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('admin_start', NULL)
+#15 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#16 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#17 {main}
+---------------------------------------------
+2012-05-07 11:15:38exception 'ADODB_Exception' with message 'mysql error: [1146: Table 'hot_offer.oxv_oxshops_en' doesn't exist] in EXECUTE("select oxv_oxshops_en.oxid, oxv_oxshops_en.oxactive, oxv_oxshops_en.oxproductive, oxv_oxshops_en.oxdefcurrency, oxv_oxshops_en.oxdeflanguage, oxv_oxshops_en.oxname, oxv_oxshops_en.oxtitleprefix, oxv_oxshops_en.oxtitlesuffix, oxv_oxshops_en.oxstarttitle, oxv_oxshops_en.oxinfoemail, oxv_oxshops_en.oxorderemail, oxv_oxshops_en.oxowneremail, oxv_oxshops_en.oxordersubject, oxv_oxshops_en.oxregistersubject, oxv_oxshops_en.oxforgotpwdsubject, oxv_oxshops_en.oxsendednowsubject, oxv_oxshops_en.oxsmtp, oxv_oxshops_en.oxsmtpuser, oxv_oxshops_en.oxsmtppwd, oxv_oxshops_en.oxcompany, oxv_oxshops_en.oxstreet, oxv_oxshops_en.oxzip, oxv_oxshops_en.oxcity, oxv_oxshops_en.oxcountry, oxv_oxshops_en.oxbankname, oxv_oxshops_en.oxbanknumber, oxv_oxshops_en.oxbankcode, oxv_oxshops_en.oxvatnumber, oxv_oxshops_en.oxbiccode, oxv_oxshops_en.oxibannumber, oxv_oxshops_en.oxfname, oxv_oxshops_en.oxlname, oxv_oxshops_en.oxtelefon, oxv_oxshops_en.oxtelefax, oxv_oxshops_en.oxurl, oxv_oxshops_en.oxdefcat, oxv_oxshops_en.oxhrbnr, oxv_oxshops_en.oxcourt, oxv_oxshops_en.oxadbutlerid, oxv_oxshops_en.oxaffilinetid, oxv_oxshops_en.oxsuperclicksid, oxv_oxshops_en.oxaffiliweltid, oxv_oxshops_en.oxaffili24id, oxv_oxshops_en.oxedition, oxv_oxshops_en.oxversion, oxv_oxshops_en.oxseoactive from oxv_oxshops_en where 1  and oxv_oxshops_en.oxid = 'oxbaseshop'")
+' in C:\www\otherproject\hot_offer\core\adodblite\adodb-exceptions.inc.php:84
+Stack trace:
+#0 C:\www\otherproject\hot_offer\core\adodblite\adodbSQL_drivers\mysql\mysql_driver.inc(369): adodb_throw('mysql', 'EXECUTE', 1146, 'Table 'hot_offe...', 'select oxv_oxsh...', false, Object(object_ADOConnection))
+#1 C:\www\otherproject\hot_offer\core\adodblite\adodb.inc.php(316): mysql_driver_ADOConnection->do_query('select oxv_oxsh...', -1, -1, false)
+#2 C:\www\otherproject\hot_offer\core\oxlegacydb.php(147): ADOConnection->Execute('select oxv_oxsh...', false)
+#3 C:\www\otherproject\hot_offer\core\oxbase.php(680): oxLegacyDb->select('select oxv_oxsh...')
+#4 C:\www\otherproject\hot_offer\core\oxbase.php(629): oxBase->assignRecord('select oxv_oxsh...')
+#5 C:\www\otherproject\hot_offer\core\oxconfig.php(1919): oxBase->load('oxbaseshop')
+#6 C:\www\otherproject\hot_offer\admin\oxadminview.php(140): oxConfig->getActiveShop()
+#7 C:\www\otherproject\hot_offer\admin\oxadminview.php(122): oxAdminView->_getEditShop('oxbaseshop')
+#8 C:\www\otherproject\hot_offer\core\oxutilsobject.php(150): oxAdminView->__construct()
+#9 C:\www\otherproject\hot_offer\core\oxutilsobject.php(125): oxUtilsObject->_getObject('admin_start', 0, Array)
+#10 [internal function]: oxUtilsObject->oxNew('admin_start')
+#11 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#12 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(357): oxNew('admin_start')
+#13 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(309): oxShopControl->_initializeViewObject('admin_start', NULL)
+#14 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('admin_start', NULL)
+#15 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#16 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#17 {main}
+---------------------------------------------
+2012-05-07 11:15:39exception 'ADODB_Exception' with message 'mysql error: [1146: Table 'hot_offer.oxv_oxshops_en' doesn't exist] in EXECUTE("select oxv_oxshops_en.oxid, oxv_oxshops_en.oxactive, oxv_oxshops_en.oxproductive, oxv_oxshops_en.oxdefcurrency, oxv_oxshops_en.oxdeflanguage, oxv_oxshops_en.oxname, oxv_oxshops_en.oxtitleprefix, oxv_oxshops_en.oxtitlesuffix, oxv_oxshops_en.oxstarttitle, oxv_oxshops_en.oxinfoemail, oxv_oxshops_en.oxorderemail, oxv_oxshops_en.oxowneremail, oxv_oxshops_en.oxordersubject, oxv_oxshops_en.oxregistersubject, oxv_oxshops_en.oxforgotpwdsubject, oxv_oxshops_en.oxsendednowsubject, oxv_oxshops_en.oxsmtp, oxv_oxshops_en.oxsmtpuser, oxv_oxshops_en.oxsmtppwd, oxv_oxshops_en.oxcompany, oxv_oxshops_en.oxstreet, oxv_oxshops_en.oxzip, oxv_oxshops_en.oxcity, oxv_oxshops_en.oxcountry, oxv_oxshops_en.oxbankname, oxv_oxshops_en.oxbanknumber, oxv_oxshops_en.oxbankcode, oxv_oxshops_en.oxvatnumber, oxv_oxshops_en.oxbiccode, oxv_oxshops_en.oxibannumber, oxv_oxshops_en.oxfname, oxv_oxshops_en.oxlname, oxv_oxshops_en.oxtelefon, oxv_oxshops_en.oxtelefax, oxv_oxshops_en.oxurl, oxv_oxshops_en.oxdefcat, oxv_oxshops_en.oxhrbnr, oxv_oxshops_en.oxcourt, oxv_oxshops_en.oxadbutlerid, oxv_oxshops_en.oxaffilinetid, oxv_oxshops_en.oxsuperclicksid, oxv_oxshops_en.oxaffiliweltid, oxv_oxshops_en.oxaffili24id, oxv_oxshops_en.oxedition, oxv_oxshops_en.oxversion, oxv_oxshops_en.oxseoactive from oxv_oxshops_en where 1  and oxv_oxshops_en.oxid = 'oxbaseshop'")
+' in C:\www\otherproject\hot_offer\core\adodblite\adodb-exceptions.inc.php:84
+Stack trace:
+#0 C:\www\otherproject\hot_offer\core\adodblite\adodbSQL_drivers\mysql\mysql_driver.inc(369): adodb_throw('mysql', 'EXECUTE', 1146, 'Table 'hot_offe...', 'select oxv_oxsh...', false, Object(object_ADOConnection))
+#1 C:\www\otherproject\hot_offer\core\adodblite\adodb.inc.php(316): mysql_driver_ADOConnection->do_query('select oxv_oxsh...', -1, -1, false)
+#2 C:\www\otherproject\hot_offer\core\oxlegacydb.php(147): ADOConnection->Execute('select oxv_oxsh...', false)
+#3 C:\www\otherproject\hot_offer\core\oxbase.php(680): oxLegacyDb->select('select oxv_oxsh...')
+#4 C:\www\otherproject\hot_offer\core\oxbase.php(629): oxBase->assignRecord('select oxv_oxsh...')
+#5 C:\www\otherproject\hot_offer\core\oxconfig.php(1919): oxBase->load('oxbaseshop')
+#6 C:\www\otherproject\hot_offer\admin\oxadminview.php(140): oxConfig->getActiveShop()
+#7 C:\www\otherproject\hot_offer\admin\oxadminview.php(122): oxAdminView->_getEditShop('oxbaseshop')
+#8 C:\www\otherproject\hot_offer\core\oxutilsobject.php(150): oxAdminView->__construct()
+#9 C:\www\otherproject\hot_offer\core\oxutilsobject.php(125): oxUtilsObject->_getObject('admin_start', 0, Array)
+#10 [internal function]: oxUtilsObject->oxNew('admin_start')
+#11 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#12 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(357): oxNew('admin_start')
+#13 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(309): oxShopControl->_initializeViewObject('admin_start', NULL)
+#14 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('admin_start', NULL)
+#15 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#16 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#17 {main}
+---------------------------------------------
+2012-05-07 11:15:39exception 'ADODB_Exception' with message 'mysql error: [1146: Table 'hot_offer.oxv_oxshops_en' doesn't exist] in EXECUTE("select oxv_oxshops_en.oxid, oxv_oxshops_en.oxactive, oxv_oxshops_en.oxproductive, oxv_oxshops_en.oxdefcurrency, oxv_oxshops_en.oxdeflanguage, oxv_oxshops_en.oxname, oxv_oxshops_en.oxtitleprefix, oxv_oxshops_en.oxtitlesuffix, oxv_oxshops_en.oxstarttitle, oxv_oxshops_en.oxinfoemail, oxv_oxshops_en.oxorderemail, oxv_oxshops_en.oxowneremail, oxv_oxshops_en.oxordersubject, oxv_oxshops_en.oxregistersubject, oxv_oxshops_en.oxforgotpwdsubject, oxv_oxshops_en.oxsendednowsubject, oxv_oxshops_en.oxsmtp, oxv_oxshops_en.oxsmtpuser, oxv_oxshops_en.oxsmtppwd, oxv_oxshops_en.oxcompany, oxv_oxshops_en.oxstreet, oxv_oxshops_en.oxzip, oxv_oxshops_en.oxcity, oxv_oxshops_en.oxcountry, oxv_oxshops_en.oxbankname, oxv_oxshops_en.oxbanknumber, oxv_oxshops_en.oxbankcode, oxv_oxshops_en.oxvatnumber, oxv_oxshops_en.oxbiccode, oxv_oxshops_en.oxibannumber, oxv_oxshops_en.oxfname, oxv_oxshops_en.oxlname, oxv_oxshops_en.oxtelefon, oxv_oxshops_en.oxtelefax, oxv_oxshops_en.oxurl, oxv_oxshops_en.oxdefcat, oxv_oxshops_en.oxhrbnr, oxv_oxshops_en.oxcourt, oxv_oxshops_en.oxadbutlerid, oxv_oxshops_en.oxaffilinetid, oxv_oxshops_en.oxsuperclicksid, oxv_oxshops_en.oxaffiliweltid, oxv_oxshops_en.oxaffili24id, oxv_oxshops_en.oxedition, oxv_oxshops_en.oxversion, oxv_oxshops_en.oxseoactive from oxv_oxshops_en where 1  and oxv_oxshops_en.oxid = 'oxbaseshop'")
+' in C:\www\otherproject\hot_offer\core\adodblite\adodb-exceptions.inc.php:84
+Stack trace:
+#0 C:\www\otherproject\hot_offer\core\adodblite\adodbSQL_drivers\mysql\mysql_driver.inc(369): adodb_throw('mysql', 'EXECUTE', 1146, 'Table 'hot_offe...', 'select oxv_oxsh...', false, Object(object_ADOConnection))
+#1 C:\www\otherproject\hot_offer\core\adodblite\adodb.inc.php(316): mysql_driver_ADOConnection->do_query('select oxv_oxsh...', -1, -1, false)
+#2 C:\www\otherproject\hot_offer\core\oxlegacydb.php(147): ADOConnection->Execute('select oxv_oxsh...', false)
+#3 C:\www\otherproject\hot_offer\core\oxbase.php(680): oxLegacyDb->select('select oxv_oxsh...')
+#4 C:\www\otherproject\hot_offer\core\oxbase.php(629): oxBase->assignRecord('select oxv_oxsh...')
+#5 C:\www\otherproject\hot_offer\core\oxconfig.php(1919): oxBase->load('oxbaseshop')
+#6 C:\www\otherproject\hot_offer\admin\oxadminview.php(140): oxConfig->getActiveShop()
+#7 C:\www\otherproject\hot_offer\admin\oxadminview.php(122): oxAdminView->_getEditShop('oxbaseshop')
+#8 C:\www\otherproject\hot_offer\core\oxutilsobject.php(150): oxAdminView->__construct()
+#9 C:\www\otherproject\hot_offer\core\oxutilsobject.php(125): oxUtilsObject->_getObject('admin_start', 0, Array)
+#10 [internal function]: oxUtilsObject->oxNew('admin_start')
+#11 C:\www\otherproject\hot_offer\core\oxfunctions.php(316): call_user_func_array(Array, Array)
+#12 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(357): oxNew('admin_start')
+#13 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(309): oxShopControl->_initializeViewObject('admin_start', NULL)
+#14 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('admin_start', NULL)
+#15 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#16 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#17 {main}
+---------------------------------------------
+2012-05-07 11:15:51exception 'ADODB_Exception' with message 'mysql error: [1146: Table 'hot_offer.oxv_oxshops_en' doesn't exist] in EXECUTE("select oxv_oxshops_en.oxid, oxv_oxshops_en.oxactive, oxv_oxshops_en.oxproductive, oxv_oxshops_en.oxdefcurrency, oxv_oxshops_en.oxdeflanguage, oxv_oxshops_en.oxname, oxv_oxshops_en.oxtitleprefix, oxv_oxshops_en.oxtitlesuffix, oxv_oxshops_en.oxstarttitle, oxv_oxshops_en.oxinfoemail, oxv_oxshops_en.oxorderemail, oxv_oxshops_en.oxowneremail, oxv_oxshops_en.oxordersubject, oxv_oxshops_en.oxregistersubject, oxv_oxshops_en.oxforgotpwdsubject, oxv_oxshops_en.oxsendednowsubject, oxv_oxshops_en.oxsmtp, oxv_oxshops_en.oxsmtpuser, oxv_oxshops_en.oxsmtppwd, oxv_oxshops_en.oxcompany, oxv_oxshops_en.oxstreet, oxv_oxshops_en.oxzip, oxv_oxshops_en.oxcity, oxv_oxshops_en.oxcountry, oxv_oxshops_en.oxbankname, oxv_oxshops_en.oxbanknumber, oxv_oxshops_en.oxbankcode, oxv_oxshops_en.oxvatnumber, oxv_oxshops_en.oxbiccode, oxv_oxshops_en.oxibannumber, oxv_oxshops_en.oxfname, oxv_oxshops_en.oxlname, oxv_oxshops_en.oxtelefon, oxv_oxshops_en.oxtelefax, oxv_oxshops_en.oxurl, oxv_oxshops_en.oxdefcat, oxv_oxshops_en.oxhrbnr, oxv_oxshops_en.oxcourt, oxv_oxshops_en.oxadbutlerid, oxv_oxshops_en.oxaffilinetid, oxv_oxshops_en.oxsuperclicksid, oxv_oxshops_en.oxaffiliweltid, oxv_oxshops_en.oxaffili24id, oxv_oxshops_en.oxedition, oxv_oxshops_en.oxversion, oxv_oxshops_en.oxseoactive from oxv_oxshops_en where 1  and oxv_oxshops_en.oxid = 'oxbaseshop'")
+' in C:\www\otherproject\hot_offer\core\adodblite\adodb-exceptions.inc.php:84
+Stack trace:
+#0 C:\www\otherproject\hot_offer\core\adodblite\adodbSQL_drivers\mysql\mysql_driver.inc(369): adodb_throw('mysql', 'EXECUTE', 1146, 'Table 'hot_offe...', 'select oxv_oxsh...', false, Object(object_ADOConnection))
+#1 C:\www\otherproject\hot_offer\core\adodblite\adodb.inc.php(316): mysql_driver_ADOConnection->do_query('select oxv_oxsh...', -1, -1, false)
+#2 C:\www\otherproject\hot_offer\core\oxlegacydb.php(147): ADOConnection->Execute('select oxv_oxsh...', false)
+#3 C:\www\otherproject\hot_offer\core\oxbase.php(680): oxLegacyDb->select('select oxv_oxsh...')
+#4 C:\www\otherproject\hot_offer\core\oxbase.php(629): oxBase->assignRecord('select oxv_oxsh...')
+#5 C:\www\otherproject\hot_offer\admin\login.php(59): oxBase->load('oxbaseshop')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(406): Login->render()
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Login))
+#8 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('login', NULL)
+#9 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#10 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#11 {main}
+---------------------------------------------
+2012-05-07 11:15:53exception 'ADODB_Exception' with message 'mysql error: [1146: Table 'hot_offer.oxv_oxshops_en' doesn't exist] in EXECUTE("select oxv_oxshops_en.oxid, oxv_oxshops_en.oxactive, oxv_oxshops_en.oxproductive, oxv_oxshops_en.oxdefcurrency, oxv_oxshops_en.oxdeflanguage, oxv_oxshops_en.oxname, oxv_oxshops_en.oxtitleprefix, oxv_oxshops_en.oxtitlesuffix, oxv_oxshops_en.oxstarttitle, oxv_oxshops_en.oxinfoemail, oxv_oxshops_en.oxorderemail, oxv_oxshops_en.oxowneremail, oxv_oxshops_en.oxordersubject, oxv_oxshops_en.oxregistersubject, oxv_oxshops_en.oxforgotpwdsubject, oxv_oxshops_en.oxsendednowsubject, oxv_oxshops_en.oxsmtp, oxv_oxshops_en.oxsmtpuser, oxv_oxshops_en.oxsmtppwd, oxv_oxshops_en.oxcompany, oxv_oxshops_en.oxstreet, oxv_oxshops_en.oxzip, oxv_oxshops_en.oxcity, oxv_oxshops_en.oxcountry, oxv_oxshops_en.oxbankname, oxv_oxshops_en.oxbanknumber, oxv_oxshops_en.oxbankcode, oxv_oxshops_en.oxvatnumber, oxv_oxshops_en.oxbiccode, oxv_oxshops_en.oxibannumber, oxv_oxshops_en.oxfname, oxv_oxshops_en.oxlname, oxv_oxshops_en.oxtelefon, oxv_oxshops_en.oxtelefax, oxv_oxshops_en.oxurl, oxv_oxshops_en.oxdefcat, oxv_oxshops_en.oxhrbnr, oxv_oxshops_en.oxcourt, oxv_oxshops_en.oxadbutlerid, oxv_oxshops_en.oxaffilinetid, oxv_oxshops_en.oxsuperclicksid, oxv_oxshops_en.oxaffiliweltid, oxv_oxshops_en.oxaffili24id, oxv_oxshops_en.oxedition, oxv_oxshops_en.oxversion, oxv_oxshops_en.oxseoactive from oxv_oxshops_en where 1  and oxv_oxshops_en.oxid = 'oxbaseshop'")
+' in C:\www\otherproject\hot_offer\core\adodblite\adodb-exceptions.inc.php:84
+Stack trace:
+#0 C:\www\otherproject\hot_offer\core\adodblite\adodbSQL_drivers\mysql\mysql_driver.inc(369): adodb_throw('mysql', 'EXECUTE', 1146, 'Table 'hot_offe...', 'select oxv_oxsh...', false, Object(object_ADOConnection))
+#1 C:\www\otherproject\hot_offer\core\adodblite\adodb.inc.php(316): mysql_driver_ADOConnection->do_query('select oxv_oxsh...', -1, -1, false)
+#2 C:\www\otherproject\hot_offer\core\oxlegacydb.php(147): ADOConnection->Execute('select oxv_oxsh...', false)
+#3 C:\www\otherproject\hot_offer\core\oxbase.php(680): oxLegacyDb->select('select oxv_oxsh...')
+#4 C:\www\otherproject\hot_offer\core\oxbase.php(629): oxBase->assignRecord('select oxv_oxsh...')
+#5 C:\www\otherproject\hot_offer\core\oxconfig.php(1919): oxBase->load('oxbaseshop')
+#6 C:\www\otherproject\hot_offer\core\oxutils.php(1028): oxConfig->getActiveShop()
+#7 C:\www\otherproject\hot_offer\views\oxubase.php(584): oxUtils->seoIsActive()
+#8 C:\www\otherproject\hot_offer\views\oxubase.php(615): oxUBase->_processRequest()
+#9 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(367): oxUBase->init()
+#10 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(309): oxShopControl->_initializeViewObject('start', NULL)
+#11 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('start', NULL)
+#12 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#13 {main}
+---------------------------------------------
+2012-05-07 11:17:07exception 'ADODB_Exception' with message 'mysql error: [1054: Unknown column 'oxv_oxarticles_en.nfq_hot_offer' in 'field list'] in EXECUTE("select oxv_oxarticles_en.oxid, oxv_oxarticles_en.oxshopid, oxv_oxarticles_en.oxparentid, oxv_oxarticles_en.oxactive, oxv_oxarticles_en.oxactivefrom, oxv_oxarticles_en.oxactiveto, oxv_oxarticles_en.oxartnum, oxv_oxarticles_en.oxean, oxv_oxarticles_en.oxdistean, oxv_oxarticles_en.oxmpn, oxv_oxarticles_en.oxtitle, oxv_oxarticles_en.oxshortdesc, oxv_oxarticles_en.oxprice, oxv_oxarticles_en.oxblfixedprice, oxv_oxarticles_en.oxpricea, oxv_oxarticles_en.oxpriceb, oxv_oxarticles_en.oxpricec, oxv_oxarticles_en.oxbprice, oxv_oxarticles_en.oxtprice, oxv_oxarticles_en.oxunitname, oxv_oxarticles_en.oxunitquantity, oxv_oxarticles_en.oxexturl, oxv_oxarticles_en.oxurldesc, oxv_oxarticles_en.oxurlimg, oxv_oxarticles_en.oxvat, oxv_oxarticles_en.oxthumb, oxv_oxarticles_en.oxicon, oxv_oxarticles_en.oxpicsgenerated, oxv_oxarticles_en.oxpic1, oxv_oxarticles_en.oxpic2, oxv_oxarticles_en.oxpic3, oxv_oxarticles_en.oxpic4, oxv_oxarticles_en.oxpic5, oxv_oxarticles_en.oxpic6, oxv_oxarticles_en.oxpic7, oxv_oxarticles_en.oxpic8, oxv_oxarticles_en.oxpic9, oxv_oxarticles_en.oxpic10, oxv_oxarticles_en.oxpic11, oxv_oxarticles_en.oxpic12, oxv_oxarticles_en.oxweight, oxv_oxarticles_en.oxstock, oxv_oxarticles_en.oxstockflag, oxv_oxarticles_en.oxstocktext, oxv_oxarticles_en.oxnostocktext, oxv_oxarticles_en.oxdelivery, oxv_oxarticles_en.oxinsert, oxv_oxarticles_en.oxtimestamp, oxv_oxarticles_en.oxlength, oxv_oxarticles_en.oxwidth, oxv_oxarticles_en.oxheight, oxv_oxarticles_en.oxfile, oxv_oxarticles_en.oxsearchkeys, oxv_oxarticles_en.oxtemplate, oxv_oxarticles_en.oxquestionemail, oxv_oxarticles_en.oxissearch, oxv_oxarticles_en.oxisconfigurable, oxv_oxarticles_en.oxvarname, oxv_oxarticles_en.oxvarstock, oxv_oxarticles_en.oxvarcount, oxv_oxarticles_en.oxvarselect, oxv_oxarticles_en.oxvarminprice, oxv_oxarticles_en.oxbundleid, oxv_oxarticles_en.oxfolder, oxv_oxarticles_en.oxsubclass, oxv_oxarticles_en.oxsort, oxv_oxarticles_en.oxsoldamount, oxv_oxarticles_en.oxnonmaterial, oxv_oxarticles_en.oxfreeshipping, oxv_oxarticles_en.oxremindactive, oxv_oxarticles_en.oxremindamount, oxv_oxarticles_en.oxamitemid, oxv_oxarticles_en.oxamtaskid, oxv_oxarticles_en.oxvendorid, oxv_oxarticles_en.oxmanufacturerid, oxv_oxarticles_en.oxskipdiscounts, oxv_oxarticles_en.oxrating, oxv_oxarticles_en.oxratingcnt, oxv_oxarticles_en.oxmindeltime, oxv_oxarticles_en.oxmaxdeltime, oxv_oxarticles_en.oxdeltimeunit, oxv_oxarticles_en.oxupdateprice, oxv_oxarticles_en.oxupdatepricea, oxv_oxarticles_en.oxupdatepriceb, oxv_oxarticles_en.oxupdatepricec, oxv_oxarticles_en.oxupdatepricetime, oxv_oxarticles_en.oxisdownloadable, oxv_oxarticles_en.nfq_hot_offer from oxv_oxarticles_en where 1  and oxv_oxarticles_en.oxparentid = ''  LIMIT 0, 10")
+' in C:\www\otherproject\hot_offer\core\adodblite\adodb-exceptions.inc.php:84
+Stack trace:
+#0 C:\www\otherproject\hot_offer\core\adodblite\adodbSQL_drivers\mysql\mysql_driver.inc(369): adodb_throw('mysql', 'EXECUTE', 1054, 'Unknown column ...', 'select oxv_oxar...', false, Object(object_ADOConnection))
+#1 C:\www\otherproject\hot_offer\core\adodblite\adodb.inc.php(334): mysql_driver_ADOConnection->do_query('select oxv_oxar...', 0, 10, false)
+#2 C:\www\otherproject\hot_offer\core\oxlegacydb.php(191): ADOConnection->SelectLimit('select oxv_oxar...', 10, 0, false)
+#3 C:\www\otherproject\hot_offer\core\oxlist.php(394): oxLegacyDb->selectLimit('select oxv_oxar...', 10, 0)
+#4 C:\www\otherproject\hot_offer\core\oxarticlelist.php(84): oxList->selectString('select oxv_oxar...')
+#5 C:\www\otherproject\hot_offer\admin\oxadminlist.php(815): oxArticleList->selectString('select oxv_oxar...')
+#6 C:\www\otherproject\hot_offer\admin\article_list.php(61): oxAdminList->getItemList()
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(406): Article_List->render()
+#8 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Article_List))
+#9 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('article_list', NULL)
+#10 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#11 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#12 {main}
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 11:19:44): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(79): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', NULL)
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 11:19:48): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(79): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', 'save')
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 11:20:29): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(79): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', NULL)
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 11:21:14): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(77): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', NULL)
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+2012-05-07 11:23:35exception 'ADODB_Exception' with message 'mysql error: [1054: Unknown column 'oxv_oxarticles_en.nfq_hot_offer' in 'field list'] in EXECUTE("select oxv_oxarticles_en.oxid, oxv_oxarticles_en.oxshopid, oxv_oxarticles_en.oxparentid, oxv_oxarticles_en.oxactive, oxv_oxarticles_en.oxactivefrom, oxv_oxarticles_en.oxactiveto, oxv_oxarticles_en.oxartnum, oxv_oxarticles_en.oxean, oxv_oxarticles_en.oxdistean, oxv_oxarticles_en.oxmpn, oxv_oxarticles_en.oxtitle, oxv_oxarticles_en.oxshortdesc, oxv_oxarticles_en.oxprice, oxv_oxarticles_en.oxblfixedprice, oxv_oxarticles_en.oxpricea, oxv_oxarticles_en.oxpriceb, oxv_oxarticles_en.oxpricec, oxv_oxarticles_en.oxbprice, oxv_oxarticles_en.oxtprice, oxv_oxarticles_en.oxunitname, oxv_oxarticles_en.oxunitquantity, oxv_oxarticles_en.oxexturl, oxv_oxarticles_en.oxurldesc, oxv_oxarticles_en.oxurlimg, oxv_oxarticles_en.oxvat, oxv_oxarticles_en.oxthumb, oxv_oxarticles_en.oxicon, oxv_oxarticles_en.oxpicsgenerated, oxv_oxarticles_en.oxpic1, oxv_oxarticles_en.oxpic2, oxv_oxarticles_en.oxpic3, oxv_oxarticles_en.oxpic4, oxv_oxarticles_en.oxpic5, oxv_oxarticles_en.oxpic6, oxv_oxarticles_en.oxpic7, oxv_oxarticles_en.oxpic8, oxv_oxarticles_en.oxpic9, oxv_oxarticles_en.oxpic10, oxv_oxarticles_en.oxpic11, oxv_oxarticles_en.oxpic12, oxv_oxarticles_en.oxweight, oxv_oxarticles_en.oxstock, oxv_oxarticles_en.oxstockflag, oxv_oxarticles_en.oxstocktext, oxv_oxarticles_en.oxnostocktext, oxv_oxarticles_en.oxdelivery, oxv_oxarticles_en.oxinsert, oxv_oxarticles_en.oxtimestamp, oxv_oxarticles_en.oxlength, oxv_oxarticles_en.oxwidth, oxv_oxarticles_en.oxheight, oxv_oxarticles_en.oxfile, oxv_oxarticles_en.oxsearchkeys, oxv_oxarticles_en.oxtemplate, oxv_oxarticles_en.oxquestionemail, oxv_oxarticles_en.oxissearch, oxv_oxarticles_en.oxisconfigurable, oxv_oxarticles_en.oxvarname, oxv_oxarticles_en.oxvarstock, oxv_oxarticles_en.oxvarcount, oxv_oxarticles_en.oxvarselect, oxv_oxarticles_en.oxvarminprice, oxv_oxarticles_en.oxbundleid, oxv_oxarticles_en.oxfolder, oxv_oxarticles_en.oxsubclass, oxv_oxarticles_en.oxsort, oxv_oxarticles_en.oxsoldamount, oxv_oxarticles_en.oxnonmaterial, oxv_oxarticles_en.oxfreeshipping, oxv_oxarticles_en.oxremindactive, oxv_oxarticles_en.oxremindamount, oxv_oxarticles_en.oxamitemid, oxv_oxarticles_en.oxamtaskid, oxv_oxarticles_en.oxvendorid, oxv_oxarticles_en.oxmanufacturerid, oxv_oxarticles_en.oxskipdiscounts, oxv_oxarticles_en.oxrating, oxv_oxarticles_en.oxratingcnt, oxv_oxarticles_en.oxmindeltime, oxv_oxarticles_en.oxmaxdeltime, oxv_oxarticles_en.oxdeltimeunit, oxv_oxarticles_en.oxupdateprice, oxv_oxarticles_en.oxupdatepricea, oxv_oxarticles_en.oxupdatepriceb, oxv_oxarticles_en.oxupdatepricec, oxv_oxarticles_en.oxupdatepricetime, oxv_oxarticles_en.oxisdownloadable, oxv_oxarticles_en.nfq_hot_offer from oxv_oxarticles_en where 1  and oxv_oxarticles_en.oxparentid = ''  LIMIT 0, 10")
+' in C:\www\otherproject\hot_offer\core\adodblite\adodb-exceptions.inc.php:84
+Stack trace:
+#0 C:\www\otherproject\hot_offer\core\adodblite\adodbSQL_drivers\mysql\mysql_driver.inc(369): adodb_throw('mysql', 'EXECUTE', 1054, 'Unknown column ...', 'select oxv_oxar...', false, Object(object_ADOConnection))
+#1 C:\www\otherproject\hot_offer\core\adodblite\adodb.inc.php(334): mysql_driver_ADOConnection->do_query('select oxv_oxar...', 0, 10, false)
+#2 C:\www\otherproject\hot_offer\core\oxlegacydb.php(191): ADOConnection->SelectLimit('select oxv_oxar...', 10, 0, false)
+#3 C:\www\otherproject\hot_offer\core\oxlist.php(394): oxLegacyDb->selectLimit('select oxv_oxar...', 10, 0)
+#4 C:\www\otherproject\hot_offer\core\oxarticlelist.php(84): oxList->selectString('select oxv_oxar...')
+#5 C:\www\otherproject\hot_offer\admin\oxadminlist.php(815): oxArticleList->selectString('select oxv_oxar...')
+#6 C:\www\otherproject\hot_offer\admin\article_list.php(61): oxAdminList->getItemList()
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(406): Article_List->render()
+#8 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Article_List))
+#9 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('article_list', NULL)
+#10 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#11 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#12 {main}
+---------------------------------------------
+2012-05-07 11:24:07exception 'ADODB_Exception' with message 'mysql error: [1054: Unknown column 'oxv_oxarticles_en.nfq_hot_offer' in 'field list'] in EXECUTE("select oxv_oxarticles_en.oxid, oxv_oxarticles_en.oxshopid, oxv_oxarticles_en.oxparentid, oxv_oxarticles_en.oxactive, oxv_oxarticles_en.oxactivefrom, oxv_oxarticles_en.oxactiveto, oxv_oxarticles_en.oxartnum, oxv_oxarticles_en.oxean, oxv_oxarticles_en.oxdistean, oxv_oxarticles_en.oxmpn, oxv_oxarticles_en.oxtitle, oxv_oxarticles_en.oxshortdesc, oxv_oxarticles_en.oxprice, oxv_oxarticles_en.oxblfixedprice, oxv_oxarticles_en.oxpricea, oxv_oxarticles_en.oxpriceb, oxv_oxarticles_en.oxpricec, oxv_oxarticles_en.oxbprice, oxv_oxarticles_en.oxtprice, oxv_oxarticles_en.oxunitname, oxv_oxarticles_en.oxunitquantity, oxv_oxarticles_en.oxexturl, oxv_oxarticles_en.oxurldesc, oxv_oxarticles_en.oxurlimg, oxv_oxarticles_en.oxvat, oxv_oxarticles_en.oxthumb, oxv_oxarticles_en.oxicon, oxv_oxarticles_en.oxpicsgenerated, oxv_oxarticles_en.oxpic1, oxv_oxarticles_en.oxpic2, oxv_oxarticles_en.oxpic3, oxv_oxarticles_en.oxpic4, oxv_oxarticles_en.oxpic5, oxv_oxarticles_en.oxpic6, oxv_oxarticles_en.oxpic7, oxv_oxarticles_en.oxpic8, oxv_oxarticles_en.oxpic9, oxv_oxarticles_en.oxpic10, oxv_oxarticles_en.oxpic11, oxv_oxarticles_en.oxpic12, oxv_oxarticles_en.oxweight, oxv_oxarticles_en.oxstock, oxv_oxarticles_en.oxstockflag, oxv_oxarticles_en.oxstocktext, oxv_oxarticles_en.oxnostocktext, oxv_oxarticles_en.oxdelivery, oxv_oxarticles_en.oxinsert, oxv_oxarticles_en.oxtimestamp, oxv_oxarticles_en.oxlength, oxv_oxarticles_en.oxwidth, oxv_oxarticles_en.oxheight, oxv_oxarticles_en.oxfile, oxv_oxarticles_en.oxsearchkeys, oxv_oxarticles_en.oxtemplate, oxv_oxarticles_en.oxquestionemail, oxv_oxarticles_en.oxissearch, oxv_oxarticles_en.oxisconfigurable, oxv_oxarticles_en.oxvarname, oxv_oxarticles_en.oxvarstock, oxv_oxarticles_en.oxvarcount, oxv_oxarticles_en.oxvarselect, oxv_oxarticles_en.oxvarminprice, oxv_oxarticles_en.oxbundleid, oxv_oxarticles_en.oxfolder, oxv_oxarticles_en.oxsubclass, oxv_oxarticles_en.oxsort, oxv_oxarticles_en.oxsoldamount, oxv_oxarticles_en.oxnonmaterial, oxv_oxarticles_en.oxfreeshipping, oxv_oxarticles_en.oxremindactive, oxv_oxarticles_en.oxremindamount, oxv_oxarticles_en.oxamitemid, oxv_oxarticles_en.oxamtaskid, oxv_oxarticles_en.oxvendorid, oxv_oxarticles_en.oxmanufacturerid, oxv_oxarticles_en.oxskipdiscounts, oxv_oxarticles_en.oxrating, oxv_oxarticles_en.oxratingcnt, oxv_oxarticles_en.oxmindeltime, oxv_oxarticles_en.oxmaxdeltime, oxv_oxarticles_en.oxdeltimeunit, oxv_oxarticles_en.oxupdateprice, oxv_oxarticles_en.oxupdatepricea, oxv_oxarticles_en.oxupdatepriceb, oxv_oxarticles_en.oxupdatepricec, oxv_oxarticles_en.oxupdatepricetime, oxv_oxarticles_en.oxisdownloadable, oxv_oxarticles_en.nfq_hot_offer from oxv_oxarticles_en where 1  and oxv_oxarticles_en.oxparentid = ''  LIMIT 0, 10")
+' in C:\www\otherproject\hot_offer\core\adodblite\adodb-exceptions.inc.php:84
+Stack trace:
+#0 C:\www\otherproject\hot_offer\core\adodblite\adodbSQL_drivers\mysql\mysql_driver.inc(369): adodb_throw('mysql', 'EXECUTE', 1054, 'Unknown column ...', 'select oxv_oxar...', false, Object(object_ADOConnection))
+#1 C:\www\otherproject\hot_offer\core\adodblite\adodb.inc.php(334): mysql_driver_ADOConnection->do_query('select oxv_oxar...', 0, 10, false)
+#2 C:\www\otherproject\hot_offer\core\oxlegacydb.php(191): ADOConnection->SelectLimit('select oxv_oxar...', 10, 0, false)
+#3 C:\www\otherproject\hot_offer\core\oxlist.php(394): oxLegacyDb->selectLimit('select oxv_oxar...', 10, 0)
+#4 C:\www\otherproject\hot_offer\core\oxarticlelist.php(84): oxList->selectString('select oxv_oxar...')
+#5 C:\www\otherproject\hot_offer\admin\oxadminlist.php(815): oxArticleList->selectString('select oxv_oxar...')
+#6 C:\www\otherproject\hot_offer\admin\article_list.php(61): oxAdminList->getItemList()
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(406): Article_List->render()
+#8 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Article_List))
+#9 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('article_list', NULL)
+#10 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#11 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#12 {main}
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 11:25:03): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(77): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', NULL)
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 11:27:37): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(77): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', NULL)
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 11:29:11): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(77): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', NULL)
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 11:29:15): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(77): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', 'save')
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 11:29:19): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(77): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', 'save')
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 11:29:25): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(77): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', NULL)
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 11:29:27): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(77): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', NULL)
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 11:29:30): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(77): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', NULL)
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 11:29:32): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(77): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', 'save')
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 11:29:58): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(77): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', 'save')
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 11:30:54): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(77): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', NULL)
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 11:30:57): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(77): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', 'save')
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 11:31:02): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(77): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', NULL)
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 11:31:04): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(77): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', 'save')
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 11:31:27): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(77): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', NULL)
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 11:31:30): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(77): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', 'save')
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 11:31:42): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(77): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', NULL)
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 11:31:44): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(77): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', 'save')
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 11:32:52): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(75): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', NULL)
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 11:37:38): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(58): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', NULL)
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 11:38:46): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(58): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', NULL)
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 11:38:51): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(58): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', 'save')
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 11:38:55): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(58): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', 'save')
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 11:39:08): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(58): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', 'save')
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 11:39:12): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(58): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', 'save')
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 11:39:14): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(58): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', 'save')
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------
+oxSystemComponentException-oxException (time: 2012-05-07 11:39:18): [0]: Function 'getStdLink' does not exist or is not accessible! (oxBase)
+ 
+ Stack Trace: #0 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxSuperCfg->__call('getStdLink', Array)
+#1 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%E9^E91^E91AD39C%%bottomnaviitem.tpl.php(8): oxBase->getStdLink()
+#2 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1869): include('C:\www\otherpro...')
+#3 C:\www\otherproject\hot_offer\tmp\bed9c2ade695c5492d05dec7b3e9f41f^%%97^97A^97A10028%%nfq_article_hotoffer.tpl.php(58): Smarty->_smarty_include(Array)
+#4 C:\www\otherproject\hot_offer\core\smarty\Smarty.class.php(1263): include('C:\www\otherpro...')
+#5 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(446): Smarty->fetch('nfq_article_hot...', 'tbclarticle_nfq...')
+#6 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(317): oxShopControl->_render(Object(Nfq_Article_Hotoffer))
+#7 C:\www\otherproject\hot_offer\views\oxshopcontrol.php(114): oxShopControl->_process('nfq_article_hot...', 'save')
+#8 C:\www\otherproject\hot_offer\index.php(100): oxShopControl->start()
+#9 C:\www\otherproject\hot_offer\admin\index.php(40): require_once('C:\www\otherpro...')
+#10 {main}
+
+ Faulty component --> 
+---------------------------------------------

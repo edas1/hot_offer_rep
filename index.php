@@ -24,7 +24,8 @@
 
 // Setting error reporting mode
     // some 3rd party libraries still use deprecated functions
-    error_reporting( E_ALL ^ E_NOTICE ^ E_DEPRECATED );
+    //error_reporting( E_ALL ^ E_NOTICE ^ E_DEPRECATED );
+error_reporting( E_ALL );
 
 //Know exactly where in the code the event occurred.
 //Zend platform only.
