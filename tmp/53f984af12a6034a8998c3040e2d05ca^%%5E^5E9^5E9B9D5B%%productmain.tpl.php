@@ -1,7 +1,8 @@
-<?php /* Smarty version 2.6.26, created on 2012-05-08 08:08:45
+<?php /* Smarty version 2.6.26, created on 2012-05-08 09:21:03
          compiled from page/details/inc/productmain.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
-smarty_core_load_plugins(array('plugins' => array(array('modifier', 'cat', 'page/details/inc/productmain.tpl', 8, false),array('modifier', 'strip_tags', 'page/details/inc/productmain.tpl', 46, false),array('modifier', 'default', 'page/details/inc/productmain.tpl', 115, false),array('modifier', 'oxmultilangassign', 'page/details/inc/productmain.tpl', 115, false),array('modifier', 'strip', 'page/details/inc/productmain.tpl', 335, false),array('modifier', 'escape', 'page/details/inc/productmain.tpl', 335, false),array('function', 'oxscript', 'page/details/inc/productmain.tpl', 15, false),array('function', 'oxmultilang', 'page/details/inc/productmain.tpl', 45, false),array('function', 'oxid_include_dynamic', 'page/details/inc/productmain.tpl', 80, false),array('function', 'oxgetseourl', 'page/details/inc/productmain.tpl', 83, false),array('function', 'mailto', 'page/details/inc/productmain.tpl', 115, false),array('block', 'oxhasrights', 'page/details/inc/productmain.tpl', 18, false),)), $this); ?>
+smarty_core_load_plugins(array('plugins' => array(array('modifier', 'cat', 'page/details/inc/productmain.tpl', 9, false),array('modifier', 'strip_tags', 'page/details/inc/productmain.tpl', 49, false),array('modifier', 'default', 'page/details/inc/productmain.tpl', 119, false),array('modifier', 'oxmultilangassign', 'page/details/inc/productmain.tpl', 119, false),array('modifier', 'strip', 'page/details/inc/productmain.tpl', 339, false),array('modifier', 'escape', 'page/details/inc/productmain.tpl', 339, false),array('function', 'oxscript', 'page/details/inc/productmain.tpl', 16, false),array('function', 'oxmultilang', 'page/details/inc/productmain.tpl', 47, false),array('function', 'oxid_include_dynamic', 'page/details/inc/productmain.tpl', 84, false),array('function', 'oxgetseourl', 'page/details/inc/productmain.tpl', 87, false),array('function', 'mailto', 'page/details/inc/productmain.tpl', 119, false),array('block', 'oxhasrights', 'page/details/inc/productmain.tpl', 19, false),)), $this); ?>
+
 <?php $this->assign('aVariantSelections', $this->_tpl_vars['oView']->getVariantSelections()); ?>
 
 <?php if ($this->_tpl_vars['aVariantSelections'] && $this->_tpl_vars['aVariantSelections']['rawselections']): ?>
@@ -62,11 +63,13 @@ smarty_core_load_plugins(array('plugins' => array(array('modifier', 'cat', 'page
 
             <?php echo smarty_function_oxscript(array('add' => "$('.cloud-zoom, .cloud-zoom-gallery').CloudZoom();"), $this);?>
 
+
             <div class="picture">
                 <a href="<?php echo $this->_tpl_vars['oPictureProduct']->getMasterZoomPictureUrl(1); ?>
 " class="cloud-zoom" id="zoom1" rel='' data-zoomparams="adjustY:-2, zoomWidth:'354', fixZoomWindow:'390', trImg:'<?php echo $this->_tpl_vars['oViewConf']->getImageUrl('dot.png'); ?>
 ', loadingText:'<?php echo smarty_function_oxmultilang(array('ident' => 'PAGE_DETAILS_ZOOM_LOADING'), $this);?>
 '">
+                    <?php if ($this->_tpl_vars['oDetailsProduct']->oxarticles__nfq_hotoffer->value == 1): ?><span class="nfq_hotoffer"></span><?php endif; ?>
                     <img src="<?php echo $this->_tpl_vars['oView']->getActPicture(); ?>
 " alt="<?php echo ((is_array($_tmp=$this->_tpl_vars['oPictureProduct']->oxarticles__oxtitle->value)) ? $this->_run_mod_handler('strip_tags', true, $_tmp) : smarty_modifier_strip_tags($_tmp)); ?>
  <?php echo ((is_array($_tmp=$this->_tpl_vars['oPictureProduct']->oxarticles__oxvarselect->value)) ? $this->_run_mod_handler('strip_tags', true, $_tmp) : smarty_modifier_strip_tags($_tmp)); ?>
@@ -75,6 +78,7 @@ smarty_core_load_plugins(array('plugins' => array(array('modifier', 'cat', 'page
             </div>
         <?php else: ?>
             <div class="picture">
+                <?php if ($this->_tpl_vars['oDetailsProduct']->oxarticles__nfq_hotoffer->value == 1): ?><span class="nfq_hotoffer"></span><?php endif; ?>
                 <img src="<?php echo $this->_tpl_vars['oView']->getActPicture(); ?>
 " alt="<?php echo ((is_array($_tmp=$this->_tpl_vars['oPictureProduct']->oxarticles__oxtitle->value)) ? $this->_run_mod_handler('strip_tags', true, $_tmp) : smarty_modifier_strip_tags($_tmp)); ?>
  <?php echo ((is_array($_tmp=$this->_tpl_vars['oPictureProduct']->oxarticles__oxvarselect->value)) ? $this->_run_mod_handler('strip_tags', true, $_tmp) : smarty_modifier_strip_tags($_tmp)); ?>

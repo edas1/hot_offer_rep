@@ -5142,7 +5142,9 @@ a.downloadableFile.pending {
     width:122px;
     position: absolute;
     z-index: 0;
+    display: block;
 }
+
 .viewAllHover, .sliderHover{
     z-index: 1;
 }

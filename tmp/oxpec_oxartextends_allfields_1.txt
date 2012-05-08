@@ -1,0 +1,1 @@
+a:9:{s:4:"oxid";i:0;s:10:"oxlongdesc";i:0;s:12:"oxlongdesc_1";i:0;s:12:"oxlongdesc_2";i:0;s:12:"oxlongdesc_3";i:0;s:6:"oxtags";i:0;s:8:"oxtags_1";i:0;s:8:"oxtags_2";i:0;s:8:"oxtags_3";i:0;}

@@ -58,7 +58,7 @@
     //  6 = SMTP Debug Messages
     //  7 = oxDbDebug SQL parser
     //  8 = display smarty template names (requires /tmp cleanup)
-    $this->iDebug = 1;
+    $this->iDebug = 0;
 
     // Log all modifications performed in Admin
     $this->blLogChangesInAdmin = false;

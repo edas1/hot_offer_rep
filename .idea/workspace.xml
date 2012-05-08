@@ -22,19 +22,53 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="oxarticlelist.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/oxarticlelist.php">
+      <file leaf-file-name="details.tpl" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/out/azure/tpl/page/details/details.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="343" column="6" selection-start="10594" selection-end="10718" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="17.0">
+              <folding>
+                <marker date="1335395030000" expanded="true" signature="1685:3407" placeholder="..." />
+                <marker date="1335395030000" expanded="true" signature="2252:2398" placeholder="..." />
+                <marker date="1335395030000" expanded="true" signature="2523:3252" placeholder="..." />
+                <marker date="1335395030000" expanded="true" signature="2597:3237" placeholder="..." />
+                <marker date="1335395030000" expanded="true" signature="2830:3025" placeholder="..." />
+                <marker date="1335395030000" expanded="true" signature="3313:3396" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fullproductinfo.tpl" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/out/azure/tpl/page/details/inc/fullproductinfo.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="article_main.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/article_main.php">
+      <file leaf-file-name="productmain.tpl" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/out/nfq_hotoffer/tpl/page/details/inc/productmain.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="127" column="4" selection-start="4792" selection-end="4874" vertical-scroll-proportion="-3.8">
+            <state line="53" column="118" selection-start="3380" selection-end="3380" vertical-scroll-proportion="-11.769231">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.inc.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.inc.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="60" column="21" selection-start="2580" selection-end="2580" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nfq_hotoffers.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/nfq_hotoffers.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="16" selection-start="846" selection-end="846" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -43,70 +77,43 @@
       <file leaf-file-name="nfq_hotoffer_oxarticlelist.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modules/nfq_hotoffer/nfq_hotoffer_oxarticlelist.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="6" selection-end="418" vertical-scroll-proportion="0.0">
+            <state line="42" column="0" selection-start="1048" selection-end="1048" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nfq_hotoffers.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/views/nfq_hotoffers.php">
+      <file leaf-file-name="nfq_article_hotoffer.tpl" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/out/admin/tpl/nfq_article_hotoffer.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="7" selection-start="829" selection-end="829" vertical-scroll-proportion="0.5459854">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="alist.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/alist.php">
+      <file leaf-file-name="list.tpl" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/out/nfq_hotoffer/tpl/page/list/list.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="156" column="4" selection-start="3901" selection-end="4595" vertical-scroll-proportion="0.0">
+            <state line="66" column="100" selection-start="3436" selection-end="3437" vertical-scroll-proportion="-4.0588236">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="start.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/start.php">
+      <file leaf-file-name="listitem_infogrid.tpl" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/out/nfq_hotoffer/tpl/widget/product/listitem_infogrid.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="211" column="6" selection-start="6110" selection-end="6220" vertical-scroll-proportion="0.0">
+            <state line="45" column="104" selection-start="2759" selection-end="2851" vertical-scroll-proportion="-13.730769">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nfq_article_hotoffer.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/nfq_article_hotoffer.php">
+      <file leaf-file-name="oxid.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/out/nfq_hotoffer/src/css/oxid.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="6" selection-end="418" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="oxarticle.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/oxarticle.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4536" column="2" selection-start="146207" selection-end="146207" vertical-scroll-proportion="-3084.48">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="nfq_hotoffers.tpl" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/out/nfq_hotoffer/tpl/page/shop/nfq_hotoffers.tpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="856" selection-end="856" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="topcategories.tpl" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/out/nfq_hotoffer/tpl/widget/header/topcategories.tpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="82" column="48" selection-start="4561" selection-end="4561" vertical-scroll-proportion="-18.961538">
+            <state line="5143" column="15" selection-start="91520" selection-end="91520" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -127,10 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/out/nfq_hotoffer/theme.php" />
-        <option value="$PROJECT_DIR$/out/nfq_hotoffer/tpl/widget/product/listitem_grid.tpl" />
-        <option value="$PROJECT_DIR$/out/nfq_hotoffer/src/css/oxid.css" />
-        <option value="$PROJECT_DIR$/out/nfq_hotoffer/tpl/widget/product/listitem_infogrid.tpl" />
         <option value="$PROJECT_DIR$/out/nfq_hotoffer/tpl/temp.tpl" />
         <option value="$PROJECT_DIR$/views/oxview.php" />
         <option value="$PROJECT_DIR$/views/nfq_alist_hotoffer.php" />
@@ -139,10 +142,14 @@
         <option value="$PROJECT_DIR$/out/nfq_hotoffer/en/cust_lang.php" />
         <option value="$PROJECT_DIR$/out/nfq_hotoffer/tpl/widget/header/topcategories.tpl" />
         <option value="$PROJECT_DIR$/out/nfq_hotoffer/tpl/page/shop/nfq_hotoffers.tpl" />
-        <option value="$PROJECT_DIR$/modules/nfq_hotoffer/nfq_hotoffer_oxarticlelist.php" />
-        <option value="$PROJECT_DIR$/admin/nfq_article_hotoffer.php" />
         <option value="$PROJECT_DIR$/views/alist.php" />
         <option value="$PROJECT_DIR$/views/nfq_hotoffers.php" />
+        <option value="$PROJECT_DIR$/admin/nfq_article_hotoffer.php" />
+        <option value="$PROJECT_DIR$/out/azure/tpl/page/details/inc/productmain.tpl" />
+        <option value="$PROJECT_DIR$/out/nfq_hotoffer/src/css/oxid.css" />
+        <option value="$PROJECT_DIR$/out/nfq_hotoffer/tpl/page/details/inc/productmain.tpl" />
+        <option value="$PROJECT_DIR$/config.inc.php" />
+        <option value="$PROJECT_DIR$/modules/nfq_hotoffer/nfq_hotoffer_oxarticlelist.php" />
       </list>
     </option>
   </component>
@@ -221,7 +228,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
+              <option name="myItemId" value="out" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -235,11 +242,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
+              <option name="myItemId" value="out" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="nfq_hotoffer" />
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tpl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hot_offer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hot_offer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="out" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -269,9 +298,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\www\otherproject\hot_offer\out\nfq_hotoffer\tpl\page" />
       <recent name="C:\www\otherproject\hot_offer\out\nfq_hotoffer\tpl\widget" />
       <recent name="C:\www\otherproject\hot_offer\out\nfq_hotoffer\en" />
-      <recent name="C:\www\otherproject\hot_offer\out\nfq_hotoffer\tpl\page" />
       <recent name="C:\www\otherproject\hot_offer\out\nfq_hotoffer\tpl" />
       <recent name="C:\www\otherproject\hot_offer\out\nfq_hotoffer" />
     </key>
@@ -334,7 +363,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="886" extended-state="1" />
+    <frame x="-8" y="-8" width="1456" height="886" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -408,79 +437,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/out/nfq_hotoffer/tpl/page/list/list.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="15" selection-start="928" selection-end="928" vertical-scroll-proportion="-0.65384614">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/azure/tpl/page/shop/start.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="4" selection-start="827" selection-end="827" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/azure/en/cust_lang.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/nfq_hotoffer/en/cust_lang.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="38" selection-start="169" selection-end="169" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/nfq_hotoffer/tpl/widget/header/topcategories.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="48" selection-start="4561" selection-end="4561" vertical-scroll-proportion="-18.961538">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/nfq_hotoffer/tpl/page/shop/nfq_hotoffers.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="856" selection-end="856" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/oxarticle.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4536" column="2" selection-start="146207" selection-end="146207" vertical-scroll-proportion="-3084.48">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/oxarticlelist.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="343" column="6" selection-start="10594" selection-end="10718" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/article_main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="127" column="4" selection-start="4792" selection-end="4874" vertical-scroll-proportion="-3.8">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/newsletter.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="4" selection-start="1751" selection-end="1817" vertical-scroll-proportion="-5.450893">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/alist.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="156" column="4" selection-start="3901" selection-end="4595" vertical-scroll-proportion="0.0">
@@ -495,23 +451,107 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/nfq_article_hotoffer.php">
+    <entry file="file://$PROJECT_DIR$/admin/article_main.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="6" selection-end="418" vertical-scroll-proportion="0.0">
+        <state line="156" column="8" selection-start="5657" selection-end="5689" vertical-scroll-proportion="-7.54">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/nfq_hotoffer/nfq_hotoffer_oxarticlelist.php">
+    <entry file="file://$PROJECT_DIR$/core/oxarticlelist.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="6" selection-end="418" vertical-scroll-proportion="0.0">
+        <state line="343" column="6" selection-start="10594" selection-end="10718" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/nfq_article_hotoffer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="40" selection-start="750" selection-end="750" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/azure/tpl/page/details/details.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="17.0">
+          <folding>
+            <marker date="1335395030000" expanded="true" signature="1685:3407" placeholder="..." />
+            <marker date="1335395030000" expanded="true" signature="2252:2398" placeholder="..." />
+            <marker date="1335395030000" expanded="true" signature="2523:3252" placeholder="..." />
+            <marker date="1335395030000" expanded="true" signature="2597:3237" placeholder="..." />
+            <marker date="1335395030000" expanded="true" signature="2830:3025" placeholder="..." />
+            <marker date="1335395030000" expanded="true" signature="3313:3396" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/nfq_hotoffer/tpl/page/list/list.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="100" selection-start="3436" selection-end="3437" vertical-scroll-proportion="-4.0588236">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/azure/tpl/page/details/inc/productmain.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/azure/tpl/page/details/inc/fullproductinfo.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/nfq_hotoffer/src/css/oxid.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5143" column="15" selection-start="91520" selection-end="91520" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/nfq_hotoffer/tpl/widget/product/listitem_infogrid.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="104" selection-start="2759" selection-end="2851" vertical-scroll-proportion="-13.730769">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/nfq_hotoffer/tpl/page/details/inc/productmain.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="118" selection-start="3380" selection-end="3380" vertical-scroll-proportion="-11.769231">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="21" selection-start="2580" selection-end="2580" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/nfq_hotoffers.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="7" selection-start="829" selection-end="829" vertical-scroll-proportion="0.5459854">
+        <state line="37" column="16" selection-start="846" selection-end="846" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/nfq_hotoffer/nfq_hotoffer_oxarticlelist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="0" selection-start="1048" selection-end="1048" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/admin/tpl/nfq_article_hotoffer.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>

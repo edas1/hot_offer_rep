@@ -43,12 +43,7 @@ class nfq_hotoffer_oxarticlelist extends nfq_hotoffer_oxarticlelist_parent
 
         $sSelect  = "select * from $sArticleTable ";
         $sSelect .= "where oxparentid = '' and ".$this->getBaseObject()->getSqlActiveSnippet()." and oxissearch = 1 AND nfq_hotoffer = 1 order by $sType desc ";
-        if (!($iLimit = (int) $iLimit)) {
-            $iLimit = $myConfig->getConfigParam( 'iNrofNewcomerArticles' );
-        }
-        $sSelect .= "limit " . $iLimit;
 
         $this->selectString($sSelect);
-
     }
 }
