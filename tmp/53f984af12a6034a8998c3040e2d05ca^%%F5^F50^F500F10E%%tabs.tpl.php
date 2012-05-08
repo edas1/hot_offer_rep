@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.26, created on 2012-05-07 13:14:06
+<?php /* Smarty version 2.6.26, created on 2012-05-08 08:08:46
          compiled from page/details/inc/tabs.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('function', 'oxscript', 'page/details/inc/tabs.tpl', 1, false),array('function', 'oxmultilang', 'page/details/inc/tabs.tpl', 8, false),array('function', 'oxeval', 'page/details/inc/tabs.tpl', 11, false),array('function', 'oxid_include_dynamic', 'page/details/inc/tabs.tpl', 44, false),array('block', 'oxhasrights', 'page/details/inc/tabs.tpl', 5, false),array('modifier', 'cat', 'page/details/inc/tabs.tpl', 58, false),)), $this); ?>

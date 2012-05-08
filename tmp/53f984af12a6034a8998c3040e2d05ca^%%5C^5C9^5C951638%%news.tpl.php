@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.26, created on 2012-05-07 12:56:09
+<?php /* Smarty version 2.6.26, created on 2012-05-08 08:06:24
          compiled from widget/sidebar/news.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('function', 'oxmultilang', 'widget/sidebar/news.tpl', 2, false),array('function', 'oxgetseourl', 'widget/sidebar/news.tpl', 7, false),array('modifier', 'strip_tags', 'widget/sidebar/news.tpl', 6, false),array('modifier', 'oxtruncate', 'widget/sidebar/news.tpl', 6, false),array('modifier', 'cat', 'widget/sidebar/news.tpl', 7, false),)), $this); ?>

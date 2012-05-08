@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.26, created on 2012-05-07 12:56:08
+<?php /* Smarty version 2.6.26, created on 2012-05-08 08:06:20
          compiled from widget/product/bargainitems.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('function', 'oxscript', 'widget/product/bargainitems.tpl', 1, false),array('function', 'oxmultilang', 'widget/product/bargainitems.tpl', 21, false),array('function', 'oxgetseourl', 'widget/product/bargainitems.tpl', 35, false),array('modifier', 'strip_tags', 'widget/product/bargainitems.tpl', 7, false),array('modifier', 'cat', 'widget/product/bargainitems.tpl', 35, false),array('block', 'oxhasrights', 'widget/product/bargainitems.tpl', 16, false),)), $this); ?>

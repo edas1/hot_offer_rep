@@ -80,6 +80,6 @@
         </li>
     [{/if}]
     <li>
-        <a href="[{ oxgetseourl ident="?cl=nfq_hotoffers" }]">[{ oxmultilang ident="NFQ_HOTOFFER_TOP_LINK" }]</a>
+        <a href="[{ oxgetseourl ident="index.php?cl=nfq_hotoffers" }]">[{ oxmultilang ident="NFQ_HOTOFFER_TOP_LINK" }]</a>
     </li>
 </ul>

@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.26, created on 2012-05-07 16:45:30
+<?php /* Smarty version 2.6.26, created on 2012-05-08 08:08:37
          compiled from page/shop/nfq_hotoffers.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('function', 'oxscript', 'page/shop/nfq_hotoffers.tpl', 1, false),array('modifier', 'count', 'page/shop/nfq_hotoffers.tpl', 5, false),array('modifier', 'oxmultilangassign', 'page/shop/nfq_hotoffers.tpl', 20, false),array('insert', 'oxid_tracker', 'page/shop/nfq_hotoffers.tpl', 22, false),)), $this); ?>
@@ -28,7 +28,7 @@ if ($this->_foreach['CatArt']['total'] > 0):
     <?php if ($this->_tpl_vars['oView']->getHotOfferArticles()): ?>
         <?php $this->assign('rsslinks', $this->_tpl_vars['oView']->getRssLinks()); ?>
         <?php $_smarty_tpl_vars = $this->_tpl_vars;
-$this->_smarty_include(array('smarty_include_tpl_file' => "widget/product/list.tpl", 'smarty_include_vars' => array('type' => $this->_tpl_vars['oViewConf']->getViewThemeParam('sStartPageListDisplayType'),'head' => ((is_array($_tmp='PAGE_SHOP_NFQ_HOTOFFERS_HOTOFFERS')) ? $this->_run_mod_handler('oxmultilangassign', true, $_tmp) : smarty_modifier_oxmultilangassign($_tmp)),'listId' => 'newItems','products' => $this->_tpl_vars['oView']->getHotOfferArticles(),'rsslink' => $this->_tpl_vars['rsslinks']['newestArticles'],'rssId' => 'rssNewestProducts','showMainLink' => true)));
+$this->_smarty_include(array('smarty_include_tpl_file' => "widget/product/list.tpl", 'smarty_include_vars' => array('type' => $this->_tpl_vars['oViewConf']->getViewThemeParam('sStartPageListDisplayType'),'head' => ((is_array($_tmp='PAGE_SHOP_NFQ_HOTOFFERS_HOTOFFERS')) ? $this->_run_mod_handler('oxmultilangassign', true, $_tmp) : smarty_modifier_oxmultilangassign($_tmp)),'listId' => 'newItems','products' => $this->_tpl_vars['oView']->getHotOfferArticles(),'showMainLink' => true)));
 $this->_tpl_vars = $_smarty_tpl_vars;
 unset($_smarty_tpl_vars);
  ?>

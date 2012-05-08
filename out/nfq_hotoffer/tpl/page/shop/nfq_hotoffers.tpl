@@ -17,7 +17,7 @@
 
     [{if $oView->getHotOfferArticles() }]
         [{assign var='rsslinks' value=$oView->getRssLinks() }]
-        [{include file="widget/product/list.tpl" type=$oViewConf->getViewThemeParam('sStartPageListDisplayType') head="PAGE_SHOP_NFQ_HOTOFFERS_HOTOFFERS"|oxmultilangassign listId="newItems" products=$oView->getHotOfferArticles() rsslink=$rsslinks.newestArticles rssId="rssNewestProducts" showMainLink=true}]
+        [{include file="widget/product/list.tpl" type=$oViewConf->getViewThemeParam('sStartPageListDisplayType') head="PAGE_SHOP_NFQ_HOTOFFERS_HOTOFFERS"|oxmultilangassign listId="newItems" products=$oView->getHotOfferArticles()  showMainLink=true}]
     [{/if}]
     [{ insert name="oxid_tracker"}]
 [{/capture}]

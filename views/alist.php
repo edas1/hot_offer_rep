@@ -166,6 +166,7 @@ class aList extends oxUBase
      *
      * @return  string  $this->_sThisTemplate   current template file name
      */
+
     public function render()
     {
         $myConfig = $this->getConfig();

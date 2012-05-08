@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.26, created on 2012-05-07 16:45:30
+<?php /* Smarty version 2.6.26, created on 2012-05-08 08:06:21
          compiled from widget/product/listitem_infogrid.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('block', 'oxhasrights', 'widget/product/listitem_infogrid.tpl', 21, false),array('function', 'oxmultilang', 'widget/product/listitem_infogrid.tpl', 45, false),array('function', 'oxid_include_dynamic', 'widget/product/listitem_infogrid.tpl', 84, false),)), $this); ?>

@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.26, created on 2012-05-07 16:47:39
+<?php /* Smarty version 2.6.26, created on 2012-05-08 08:07:06
          compiled from widget/header/topcategories.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('function', 'oxscript', 'widget/header/topcategories.tpl', 1, false),array('function', 'oxstyle', 'widget/header/topcategories.tpl', 3, false),array('function', 'oxmultilang', 'widget/header/topcategories.tpl', 9, false),array('function', 'oxgetseourl', 'widget/header/topcategories.tpl', 74, false),array('modifier', 'count', 'widget/header/topcategories.tpl', 11, false),)), $this); ?>
@@ -125,7 +125,7 @@ if ($this->_foreach['MoreCms']['total'] > 0):
         </li>
     <?php endif; ?>
     <li>
-        <a href="<?php echo smarty_function_oxgetseourl(array('ident' => "?cl=nfq_hotoffers"), $this);?>
+        <a href="<?php echo smarty_function_oxgetseourl(array('ident' => "index.php?cl=nfq_hotoffers"), $this);?>
 "><?php echo smarty_function_oxmultilang(array('ident' => 'NFQ_HOTOFFER_TOP_LINK'), $this);?>
 </a>
     </li>

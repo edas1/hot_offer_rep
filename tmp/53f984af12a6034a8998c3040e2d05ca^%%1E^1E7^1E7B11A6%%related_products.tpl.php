@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.26, created on 2012-05-07 13:14:06
+<?php /* Smarty version 2.6.26, created on 2012-05-08 08:08:47
          compiled from page/details/inc/related_products.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('modifier', 'count', 'page/details/inc/related_products.tpl', 2, false),)), $this); ?>

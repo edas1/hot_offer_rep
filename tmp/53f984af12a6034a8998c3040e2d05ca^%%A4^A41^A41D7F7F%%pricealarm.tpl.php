@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.26, created on 2012-05-07 13:14:06
+<?php /* Smarty version 2.6.26, created on 2012-05-08 08:08:46
          compiled from form/pricealarm.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('function', 'oxmultilang', 'form/pricealarm.tpl', 2, false),array('function', 'oxscript', 'form/pricealarm.tpl', 3, false),array('block', 'oxhasrights', 'form/pricealarm.tpl', 20, false),)), $this); ?>

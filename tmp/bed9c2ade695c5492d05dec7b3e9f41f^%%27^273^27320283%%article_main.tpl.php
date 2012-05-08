@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.26, created on 2012-05-07 12:56:18
+<?php /* Smarty version 2.6.26, created on 2012-05-08 08:29:54
          compiled from article_main.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('modifier', 'oxmultilangassign', 'article_main.tpl', 1, false),array('modifier', 'oxformdate', 'article_main.tpl', 101, false),array('modifier', 'oxtruncate', 'article_main.tpl', 270, false),array('function', 'oxmultilang', 'article_main.tpl', 67, false),array('function', 'oxinputhelp', 'article_main.tpl', 91, false),)), $this); ?>

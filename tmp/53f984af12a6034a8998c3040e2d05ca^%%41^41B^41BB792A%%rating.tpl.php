@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.26, created on 2012-05-07 13:14:05
+<?php /* Smarty version 2.6.26, created on 2012-05-08 08:08:46
          compiled from widget/reviews/rating.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('function', 'oxscript', 'widget/reviews/rating.tpl', 1, false),array('function', 'math', 'widget/reviews/rating.tpl', 5, false),array('function', 'oxgetseourl', 'widget/reviews/rating.tpl', 23, false),array('function', 'oxmultilang', 'widget/reviews/rating.tpl', 36, false),array('modifier', 'oxmultilangassign', 'widget/reviews/rating.tpl', 8, false),array('modifier', 'cat', 'widget/reviews/rating.tpl', 23, false),)), $this); ?>

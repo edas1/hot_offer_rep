@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.26, created on 2012-05-07 13:14:05
+<?php /* Smarty version 2.6.26, created on 2012-05-08 08:08:45
          compiled from page/details/inc/fullproductinfo.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('modifier', 'oxmultilangassign', 'page/details/inc/fullproductinfo.tpl', 8, false),array('function', 'oxmultilang', 'page/details/inc/fullproductinfo.tpl', 12, false),)), $this); ?>

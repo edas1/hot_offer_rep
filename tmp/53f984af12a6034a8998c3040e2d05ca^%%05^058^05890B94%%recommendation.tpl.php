@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.26, created on 2012-05-07 16:45:31
+<?php /* Smarty version 2.6.26, created on 2012-05-08 08:06:23
          compiled from widget/sidebar/recommendation.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('function', 'oxscript', 'widget/sidebar/recommendation.tpl', 1, false),array('function', 'oxmultilang', 'widget/sidebar/recommendation.tpl', 6, false),array('modifier', 'strip_tags', 'widget/sidebar/recommendation.tpl', 22, false),)), $this); ?>

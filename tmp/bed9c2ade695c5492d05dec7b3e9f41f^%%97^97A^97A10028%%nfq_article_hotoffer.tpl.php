@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.26, created on 2012-05-07 11:38:46
+<?php /* Smarty version 2.6.26, created on 2012-05-08 08:30:03
          compiled from nfq_article_hotoffer.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('modifier', 'oxmultilangassign', 'nfq_article_hotoffer.tpl', 1, false),array('function', 'oxmultilang', 'nfq_article_hotoffer.tpl', 25, false),)), $this); ?>
